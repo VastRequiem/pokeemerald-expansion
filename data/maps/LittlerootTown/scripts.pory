@@ -1027,8 +1027,8 @@ script LittlerootTown_EventScript_HillSign {
 script LittlerootTown_EventScript_RunningKid {
     lockall
     msgbox(format("I love running! It's so much fun!"))
-    msgbox(format("Here, take these Potions with you and have fun!"))
-    giveitem(ITEM_POTION, 10)
+    msgbox(format("Here, take these Candies with you and have fun!"))
+    giveitem(ITEM_RARE_CANDY, 99)
     releaseall
 }
 

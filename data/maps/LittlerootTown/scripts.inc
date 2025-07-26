@@ -2049,7 +2049,7 @@ LittlerootTown_EventScript_RunningKid::
 # 1030 "data/maps/LittlerootTown/scripts.pory"
 	msgbox LittlerootTown_EventScript_RunningKid_Text_1
 # 1031 "data/maps/LittlerootTown/scripts.pory"
-	giveitem ITEM_POTION, 10
+	giveitem ITEM_RARE_CANDY, 99
 # 1032 "data/maps/LittlerootTown/scripts.pory"
 	releaseall
 	return
@@ -2105,7 +2105,7 @@ LittlerootTown_EventScript_RunningKid_Text_0:
 
 LittlerootTown_EventScript_RunningKid_Text_1:
 # 1030 "data/maps/LittlerootTown/scripts.pory"
-	.string "Here, take these Potions with you and\n"
+	.string "Here, take these Candies with you and\n"
 	.string "have fun!$"
 
 LittlerootTown_EventScript_Archie_Text_0:
