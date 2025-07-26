@@ -2047,18 +2047,52 @@ LittlerootTown_EventScript_RunningKid::
 # 1029 "data/maps/LittlerootTown/scripts.pory"
 	msgbox LittlerootTown_EventScript_RunningKid_Text_0
 # 1030 "data/maps/LittlerootTown/scripts.pory"
+	msgbox LittlerootTown_EventScript_RunningKid_Text_1
+# 1031 "data/maps/LittlerootTown/scripts.pory"
+	giveitem ITEM_POTION, 10
+# 1032 "data/maps/LittlerootTown/scripts.pory"
 	releaseall
 	return
 
 
 LittlerootTown_EventScript_Archie::
-# 1034 "data/maps/LittlerootTown/scripts.pory"
-	lockall
-# 1035 "data/maps/LittlerootTown/scripts.pory"
-	msgbox LittlerootTown_EventScript_Archie_Text_0
 # 1036 "data/maps/LittlerootTown/scripts.pory"
+	lockall
+# 1037 "data/maps/LittlerootTown/scripts.pory"
+	faceplayer
+# 1038 "data/maps/LittlerootTown/scripts.pory"
+	msgbox LittlerootTown_EventScript_Archie_Text_0
+# 1039 "data/maps/LittlerootTown/scripts.pory"
+	goto_if_unset FLAG_LITTLEROOT_GIVE_CLAMPERL, LittlerootTown_EventScript_Archie_2
+LittlerootTown_EventScript_Archie_1:
+# 1053 "data/maps/LittlerootTown/scripts.pory"
 	releaseall
 	return
+
+LittlerootTown_EventScript_Archie_2:
+# 1040 "data/maps/LittlerootTown/scripts.pory"
+	msgbox LittlerootTown_EventScript_Archie_Text_1
+# 1041 "data/maps/LittlerootTown/scripts.pory"
+	givemon SPECIES_CLAMPERL, 5, ITEM_DEEP_SEA_TOOTH, isShiny = TRUE
+# 1042 "data/maps/LittlerootTown/scripts.pory"
+	playfanfare MUS_OBTAIN_ITEM
+# 1043 "data/maps/LittlerootTown/scripts.pory"
+	message LittlerootTown_EventScript_Archie_Text_2
+# 1044 "data/maps/LittlerootTown/scripts.pory"
+	waitmessage
+# 1045 "data/maps/LittlerootTown/scripts.pory"
+	waitfanfare
+# 1046 "data/maps/LittlerootTown/scripts.pory"
+	bufferspeciesname STR_VAR_1, SPECIES_CLAMPERL
+# 1047 "data/maps/LittlerootTown/scripts.pory"
+	msgbox gText_NicknameThisPokemon, MSGBOX_YESNO
+# 1048 "data/maps/LittlerootTown/scripts.pory"
+	call Common_EventScript_GetGiftMonPartySlot
+# 1049 "data/maps/LittlerootTown/scripts.pory"
+	call Common_EventScript_NameReceivedPartyMon
+# 1050 "data/maps/LittlerootTown/scripts.pory"
+	setflag FLAG_LITTLEROOT_GIVE_CLAMPERL
+	goto LittlerootTown_EventScript_Archie_1
 
 
 LittlerootTown_EventScript_HillSign_Text_0:
@@ -2067,10 +2101,24 @@ LittlerootTown_EventScript_HillSign_Text_0:
 
 LittlerootTown_EventScript_RunningKid_Text_0:
 # 1029 "data/maps/LittlerootTown/scripts.pory"
-	.string "I love running! It's so much fun$"
+	.string "I love running! It's so much fun!$"
+
+LittlerootTown_EventScript_RunningKid_Text_1:
+# 1030 "data/maps/LittlerootTown/scripts.pory"
+	.string "Here, take these Potions with you and\n"
+	.string "have fun!$"
 
 LittlerootTown_EventScript_Archie_Text_0:
-# 1035 "data/maps/LittlerootTown/scripts.pory"
+# 1038 "data/maps/LittlerootTown/scripts.pory"
 	.string "I am Team Aqua Leader Archie and I\n"
 	.string "proclaim this world belongs to all sea\l"
 	.string "life!$"
+
+LittlerootTown_EventScript_Archie_Text_1:
+# 1040 "data/maps/LittlerootTown/scripts.pory"
+	.string "Take this creature of the sea with you\n"
+	.string "on your journey!$"
+
+LittlerootTown_EventScript_Archie_Text_2:
+# 1043 "data/maps/LittlerootTown/scripts.pory"
+	.string "{PLAYER} received Clamperl$"

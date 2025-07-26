@@ -1026,13 +1026,30 @@ script LittlerootTown_EventScript_HillSign {
 
 script LittlerootTown_EventScript_RunningKid {
     lockall
-    msgbox(format("I love running! It's so much fun"))
+    msgbox(format("I love running! It's so much fun!"))
+    msgbox(format("Here, take these Potions with you and have fun!"))
+    giveitem(ITEM_POTION, 10)
     releaseall
 }
 
 script LittlerootTown_EventScript_Archie {
     lockall
+    faceplayer
     msgbox(format("I am Team Aqua Leader Archie and I proclaim this world belongs to all sea life!"))
+    if (!flag(FLAG_LITTLEROOT_GIVE_CLAMPERL)) {
+        msgbox(format("Take this creature of the sea with you on your journey!"))
+        givemon(SPECIES_CLAMPERL, 5, ITEM_DEEP_SEA_TOOTH, isShiny = TRUE)
+        playfanfare(MUS_OBTAIN_ITEM)
+        message("{PLAYER} received Clamperl")
+        waitmessage()
+        waitfanfare()
+        bufferspeciesname(STR_VAR_1, SPECIES_CLAMPERL)
+        msgbox(gText_NicknameThisPokemon, MSGBOX_YESNO)
+        call(Common_EventScript_GetGiftMonPartySlot)
+        call(Common_EventScript_NameReceivedPartyMon)
+        setflag(FLAG_LITTLEROOT_GIVE_CLAMPERL)
+    }
+
     releaseall
 }
 
