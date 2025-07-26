@@ -1025,6 +1025,7 @@ script LittlerootTown_EventScript_HillSign {
 }
 
 script LittlerootTown_EventScript_RunningKid {
+    faceplayer
     lockall
     msgbox(format("I love running! It's so much fun!"))
     msgbox(format("Here, take these Candies with you and have fun!"))
@@ -1033,8 +1034,8 @@ script LittlerootTown_EventScript_RunningKid {
 }
 
 script LittlerootTown_EventScript_Archie {
-    lockall
     faceplayer
+    lockall
     msgbox(format("I am Team Aqua Leader Archie and I proclaim this world belongs to all sea life!"))
     if (!flag(FLAG_LITTLEROOT_GIVE_CLAMPERL)) {
         msgbox(format("Take this creature of the sea with you on your journey!"))
