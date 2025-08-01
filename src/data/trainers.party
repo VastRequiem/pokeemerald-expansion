@@ -5947,11 +5947,31 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer /*mychange from check bad move*/
 
 Poochyena
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Rattled
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bite
+- Quick Attack
+- Sand Attack
+
+Rookidee
+Level: 5
+Ability: Keen Eye
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wing Attack
+- Sand Attack
+- Swagger
+
+Lillipup
+Level: 5
+Ability: Vital Spirit
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tackle
+- Bite
+- Sand Attack
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -11257,13 +11277,15 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ledyba
+Level: 6
+Ability: Iron Fist
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- 
 
 Wurmple
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LYLE ===
 Name: LYLE
