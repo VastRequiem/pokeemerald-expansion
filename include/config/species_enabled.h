@@ -70,9 +70,9 @@
 #define P_FAMILY_NIDORAN                 FALSE
 #define P_FAMILY_CLEFAIRY                P_GEN_1_POKEMON
 #define P_FAMILY_VULPIX                  P_GEN_1_POKEMON
-#define P_FAMILY_JIGGLYPUFF              P_GEN_1_POKEMON
+#define P_FAMILY_JIGGLYPUFF              FALSE
 #define P_FAMILY_ZUBAT                   P_GEN_1_POKEMON
-#define P_FAMILY_ODDISH                  FALSE
+#define P_FAMILY_ODDISH                  P_GEN_1_POKEMON
 #define P_FAMILY_PARAS                   FALSE
 #define P_FAMILY_VENONAT                 FALSE
 #define P_FAMILY_DIGLETT                 FALSE
@@ -83,7 +83,7 @@
 #define P_FAMILY_POLIWAG                 P_GEN_1_POKEMON
 #define P_FAMILY_ABRA                    P_GEN_1_POKEMON
 #define P_FAMILY_MACHOP                  FALSE
-#define P_FAMILY_BELLSPROUT              FALSE
+#define P_FAMILY_BELLSPROUT              P_GEN_1_POKEMON
 #define P_FAMILY_TENTACOOL               P_GEN_1_POKEMON
 #define P_FAMILY_GEODUDE                 P_GEN_1_POKEMON
 #define P_FAMILY_PONYTA                  P_GEN_1_POKEMON
@@ -195,13 +195,13 @@
 #define P_FAMILY_LOTAD                   P_GEN_3_POKEMON
 #define P_FAMILY_SEEDOT                  P_GEN_3_POKEMON
 #define P_FAMILY_TAILLOW                 P_GEN_3_POKEMON
-#define P_FAMILY_WINGULL                 FALSE
+#define P_FAMILY_WINGULL                 P_GEN_3_POKEMON
 #define P_FAMILY_RALTS                   P_GEN_3_POKEMON
 #define P_FAMILY_SURSKIT                 P_GEN_3_POKEMON
 #define P_FAMILY_SHROOMISH               P_GEN_3_POKEMON
 #define P_FAMILY_SLAKOTH                 FALSE
 #define P_FAMILY_NINCADA                 FALSE
-#define P_FAMILY_WHISMUR                 FALSE
+#define P_FAMILY_WHISMUR                 P_GEN_3_POKEMON
 #define P_FAMILY_MAKUHITA                P_GEN_3_POKEMON
 #define P_FAMILY_NOSEPASS                FALSE
 #define P_FAMILY_SKITTY                  FALSE
@@ -226,9 +226,9 @@
 #define P_FAMILY_SWABLU                  P_GEN_3_POKEMON
 #define P_FAMILY_ZANGOOSE                FALSE
 #define P_FAMILY_SEVIPER                 FALSE
-#define P_FAMILY_LUNATONE                FALSE //change next
-#define P_FAMILY_SOLROCK                 FALSE //change next
-#define P_FAMILY_BARBOACH                FALSE
+#define P_FAMILY_LUNATONE                P_GEN_3_POKEMON
+#define P_FAMILY_SOLROCK                 P_GEN_3_POKEMON
+#define P_FAMILY_BARBOACH                P_GEN_3_POKEMON
 #define P_FAMILY_CORPHISH                P_GEN_3_POKEMON
 #define P_FAMILY_BALTOY                  P_GEN_3_POKEMON
 #define P_FAMILY_LILEEP                  P_GEN_3_POKEMON
@@ -245,7 +245,7 @@
 #define P_FAMILY_SPHEAL                  P_GEN_3_POKEMON
 #define P_FAMILY_CLAMPERL                P_GEN_3_POKEMON
 #define P_FAMILY_RELICANTH               P_GEN_3_POKEMON
-#define P_FAMILY_LUVDISC                 FALSE
+#define P_FAMILY_LUVDISC                 P_GEN_3_POKEMON
 #define P_FAMILY_BAGON                   P_GEN_3_POKEMON
 #define P_FAMILY_BELDUM                  P_GEN_3_POKEMON
 #define P_FAMILY_REGIROCK                P_GEN_3_POKEMON
