@@ -11275,14 +11275,15 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
 Ledyba
 Level: 6
 Ability: Iron Fist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mach punch
+- Mach Punch
 - Dizzy Punch
+- Shadow Punch
 
 Wurmple
 Level: 4

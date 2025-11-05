@@ -28296,7 +28296,7 @@ F_TRAINER_FEMALE |
 #line 11277
         .battleType = TRAINER_BATTLE_TYPE_SINGLES,
 #line 11278
-        .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
+        .aiFlags = AI_FLAG_BASIC_TRAINER,
         .partySize = 2,
         .party = (const struct TrainerMon[])
         {
