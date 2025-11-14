@@ -8898,22 +8898,34 @@ Minun
 Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+
 === TRAINER_GINA_AND_MIA_1 ===
 Name: GINA & MIA
 Class: Twins
 Pic: Twins
-Gender: Male
+Gender: Female
 Music: Twins
 Double Battle: Yes
-AI: Check Bad Move
+AI: Smart Trainer
 
-Seedot
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nuzleaf @ Oran Berry
+Level: 13
+Ability: Chlorophyll
+Nature: Naive
+- Fake Out
+- Feint Attack
+- Rock Smash
+- Trailblaze
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lombre @ Oran Berry
+Level: 13
+Ability: Swift Swim
+Nature: Calm
+- Fake Out
+- Mega Drain
+- Chilling Water
+- Mud Shot
+
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
