@@ -6007,13 +6007,6 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Poochyena
-Level: 5
-Ability: Rattled
-- Bite
-- Quick Attack
-- Sand Attack
-
 Starly
 Level: 5
 Ability: Keen Eye
@@ -11166,11 +11159,12 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Aipom @ Oran Berry
+Hoppip @ Oran Berry
 Level: 7
-Ability: Skill Link
-- Fake Out
-- Metronome
+Ability: Chlorophyll
+- Stun Spore
+- Charm
+- Bullet Seed
 
 Clefairy @ Oran Berry
 Level: 7
@@ -11394,12 +11388,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Ledyba @ Oran Berry
+Sizzlipede @ Oran Berry
 Level: 5
-Ability: Iron Fist
-- Mach Punch
-- Dizzy Punch
+Ability: Flash Fire
+- Ember
 - Bug Bite
+- Wrap
 
 Surskit @ Oran Berry
 Level: 5
@@ -11407,13 +11401,6 @@ Ability: Swift Swim
 - Struggle Bug
 - Water Pulse
 - Quick Attack
-
-Sizzlipede @ Oran Berry
-Level: 5
-Ability: Flash Fire
-- Ember
-- Bug Bite
-- Wrap
 
 
 === TRAINER_LYLE ===
