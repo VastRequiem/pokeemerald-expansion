@@ -1266,9 +1266,9 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
     [SPECIES_ARIADOS] =
     {
         .baseHP        = 70,
-        .baseAttack    = 110, //mychange 90 to 110
+        .baseAttack    = 95, //mychange 90 to 95
         .baseDefense   = 70,
-        .baseSpeed     = 80, //mychange 40 to 80
+        .baseSpeed     = 95, //mychange 40 to 95
         .baseSpAttack  = 50, //mychange 60 to 50
         .baseSpDefense = P_UPDATED_STATS >= GEN_7 ? 70 : 60,
         .types = MON_TYPES(TYPE_BUG, TYPE_POISON),

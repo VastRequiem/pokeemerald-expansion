@@ -5308,11 +5308,25 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Shroomish
-Level: 9
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+Stufful @ Oran Berry
+Level: 13
+Ability: Fluffy
+Nature: Hardy
+- Force Palm
+- Payback
+- Stomp
+- Taunt
+
+Fletchling @ Oran Berry
+Level: 13
+Ability: Big Pecks
+Nature: Hardy
+- Quick Attack
+- Ember
+- Wing Attack
+- Steel Wing
 
 === TRAINER_GEORGIA ===
 Name: GEORGIA
@@ -6090,11 +6104,33 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Machop
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Machop @ Oran Berry
+Level: 13
+Ability: Guts
+Nature: Careful
+- Rock Smash
+- Bullet Punch
+- Dual Chop
+
+Buizel @ Oran Berry
+Level: 13
+Ability: Swift Swim
+Nature: Naive
+- Aqua Jet
+- Pursuit
+- Ice Fang
+- Headbutt
+
+Stunky @ Oran Berry
+Level: 13
+Ability: Stench
+Nature: Naive
+- Headbutt
+- Incinerate
+- Clear Smog
+- Bite
 
 === TRAINER_BEN ===
 Name: BEN
@@ -6423,17 +6459,32 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Magikarp
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Barboach @ Expert Belt
+Level: 12
+Ability: 
+Nature: Sassy
+- Mud Slap
+- Icy Wind
+- Spark
+- Flail
 
-Magikarp
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Slowpoke @ Oran Berry
+Level: 13
+Ability: Swift Swim
+Nature: Quiet
+- Psybeam
+- Chilling Water
+- Yawn
+- Disable
 
-Magikarp
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Goldeen @ Mystic Water
+Level: 13
+Ability: Swift Swim
+Nature: Adamant
+- Supersonic
+- Horn Attack
+- Peck
+- Attract
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -8902,7 +8953,7 @@ Double Battle: Yes
 AI: Smart Trainer
 
 Nuzleaf @ Oran Berry
-Level: 13
+Level: 12
 Ability: Chlorophyll
 Nature: Naive
 - Fake Out
@@ -8911,7 +8962,7 @@ Nature: Naive
 - Trailblaze
 
 Lombre @ Oran Berry
-Level: 13
+Level: 12
 Ability: Swift Swim
 Nature: Calm
 - Fake Out
@@ -11436,15 +11487,25 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Wurmple
-Level: 8
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Karrablast @ Silver Powder
+Level: 13
+Ability: Swarm
+Nature: Jolly
+- Bug Bite
+- Flail
+- Aerial Ace
+- Headbutt
 
-Nincada
-Level: 8
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Shelmet @ Silver Powder
+Level: 13
+Ability: Shell Armor
+Nature: Brave
+- Bug Bite
+- Mega Drain
+- Yawn
+- Pursuit
 
 === TRAINER_DOUG ===
 Name: DOUG
