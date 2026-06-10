@@ -5313,7 +5313,7 @@ AI: Smart Trainer
 Stufful @ Oran Berry
 Level: 13
 Ability: Fluffy
-Nature: Hardy
+Nature: Adamant
 - Force Palm
 - Payback
 - Stomp
@@ -5322,10 +5322,10 @@ Nature: Hardy
 Fletchling @ Oran Berry
 Level: 13
 Ability: Big Pecks
-Nature: Hardy
+Nature: Rash
 - Quick Attack
-- Ember
-- Wing Attack
+- Incinerate
+- Air Cutter
 - Steel Wing
 
 === TRAINER_GEORGIA ===
@@ -11763,11 +11763,26 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Spheal @ Oran Berry
+Level: 13
+Ability: Thick Fat
+Nature: Quiet
+- Icy Wind
+- Water Pulse
+- Water Sport
+- Swagger
+
+Roggenrola (F)
+Level: 13
+Ability: Sturdy
+Nature: Relaxed
+- Sand Attack
+- Smack Down
+- Attract
+- Rock Smash
+
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -14100,15 +14115,26 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Shroomish
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Oddish @ Oran Berry
+Level: 13
+Ability: Chlorophyll
+Nature: Hardy
+- Magical Leaf
+- Sludge
+- Stun Spore
+- Flail
 
-Lotad
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Blitzle @ Persim Berry
+Level: 13
+Ability: Lightning Rod
+Nature: Naive
+- Spark
+- Quick Attack
+- Flame Charge
+- Thunder Wave
+
 
 === TRAINER_MELINA ===
 Name: MELINA
