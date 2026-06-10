@@ -5310,14 +5310,14 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer
 
-Stufful @ Oran Berry
+Purrloin (F) @ Oran Berry
 Level: 13
-Ability: Fluffy
+Ability: Prankster
 Nature: Adamant
-- Force Palm
+- Fake Out
+- Quick Attack
+- Shadow Claw
 - Payback
-- Stomp
-- Taunt
 
 Fletchling @ Oran Berry
 Level: 13
@@ -11208,7 +11208,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Smart Trainer
+AI: Smart Trainer / Risky
 
 Hoppip @ Oran Berry
 Level: 7
@@ -14098,15 +14098,33 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Timburr @ Oran Berry
+Level: 13
+Ability: Guts
+Nature: Adamant
+- Mach Punch
+- Rock Throw
+- Pound
 
-Geodude
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Diglett @ Oran Berry
+Level: 13
+Ability: Arena Trap
+Nature: Careful
+- Bulldoze
+- Rock Smash
+- Feint Attack
+- Astonish
+
+Spearow @ Oran Berry
+Level: 14
+Ability: Sniper
+Nature: Adamant
+- Aerial Ace
+- Pursuit
+- Steel Wing
+- Quick Attack
 
 === TRAINER_JOHNSON ===
 Name: JOHNSON
