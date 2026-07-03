@@ -67,6 +67,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Turtwig,
             gShinyOverworldPalette_Turtwig
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sTurtwigLevelUpLearnset,
         .teachableLearnset = sTurtwigTeachableLearnset,
         .eggMoveLearnset = sTurtwigEggMoveLearnset,
@@ -137,6 +138,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Grotle,
             gShinyOverworldPalette_Grotle
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sGrotleLevelUpLearnset,
         .teachableLearnset = sGrotleTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_TORTERRA}),
@@ -212,6 +214,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Torterra,
             gShinyOverworldPalette_Torterra
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sTorterraLevelUpLearnset,
         .teachableLearnset = sTorterraTeachableLearnset,
     },
@@ -285,6 +288,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Chimchar,
             gShinyOverworldPalette_Chimchar
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sChimcharLevelUpLearnset,
         .teachableLearnset = sChimcharTeachableLearnset,
         .eggMoveLearnset = sChimcharEggMoveLearnset,
@@ -358,6 +362,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Monferno,
             gShinyOverworldPalette_Monferno
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sMonfernoLevelUpLearnset,
         .teachableLearnset = sMonfernoTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_INFERNAPE}),
@@ -434,6 +439,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Infernape,
             gShinyOverworldPalette_Infernape
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sInfernapeLevelUpLearnset,
         .teachableLearnset = sInfernapeTeachableLearnset,
     },
@@ -503,6 +509,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Piplup,
             gShinyOverworldPalette_Piplup
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sPiplupLevelUpLearnset,
         .teachableLearnset = sPiplupTeachableLearnset,
         .eggMoveLearnset = sPiplupEggMoveLearnset,
@@ -578,6 +585,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Prinplup,
             gShinyOverworldPalette_Prinplup
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sPrinplupLevelUpLearnset,
         .teachableLearnset = sPrinplupTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_EMPOLEON}),
@@ -652,6 +660,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gOverworldPalette_Empoleon,
             gShinyOverworldPalette_Empoleon
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sEmpoleonLevelUpLearnset,
         .teachableLearnset = sEmpoleonTeachableLearnset,
     },

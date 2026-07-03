@@ -63,6 +63,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Grookey,
             gShinyOverworldPalette_Grookey
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sGrookeyLevelUpLearnset,
         .teachableLearnset = sGrookeyTeachableLearnset,
         .eggMoveLearnset = sGrookeyEggMoveLearnset,
@@ -127,6 +128,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Thwackey,
             gShinyOverworldPalette_Thwackey
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sThwackeyLevelUpLearnset,
         .teachableLearnset = sThwackeyTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 35, SPECIES_RILLABOOM}),
@@ -190,6 +192,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Rillaboom,
             gShinyOverworldPalette_Rillaboom
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sRillaboomLevelUpLearnset,
         .teachableLearnset = sRillaboomTeachableLearnset,
         .formSpeciesIdTable = sRillaboomFormSpeciesIdTable,
@@ -315,6 +318,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Scorbunny,
             gShinyOverworldPalette_Scorbunny
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sScorbunnyLevelUpLearnset,
         .teachableLearnset = sScorbunnyTeachableLearnset,
         .eggMoveLearnset = sScorbunnyEggMoveLearnset,
@@ -379,6 +383,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Raboot,
             gShinyOverworldPalette_Raboot
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sRabootLevelUpLearnset,
         .teachableLearnset = sRabootTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 35, SPECIES_CINDERACE}),
@@ -443,6 +448,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Cinderace,
             gShinyOverworldPalette_Cinderace
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sCinderaceLevelUpLearnset,
         .teachableLearnset = sCinderaceTeachableLearnset,
         .formSpeciesIdTable = sCinderaceFormSpeciesIdTable,
@@ -570,6 +576,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Sobble,
             gShinyOverworldPalette_Sobble
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sSobbleLevelUpLearnset,
         .teachableLearnset = sSobbleTeachableLearnset,
         .eggMoveLearnset = sSobbleEggMoveLearnset,
@@ -634,6 +641,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Drizzile,
             gShinyOverworldPalette_Drizzile
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sDrizzileLevelUpLearnset,
         .teachableLearnset = sDrizzileTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 35, SPECIES_INTELEON}),
@@ -698,6 +706,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
             gOverworldPalette_Inteleon,
             gShinyOverworldPalette_Inteleon
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sInteleonLevelUpLearnset,
         .teachableLearnset = sInteleonTeachableLearnset,
         .formSpeciesIdTable = sInteleonFormSpeciesIdTable,

@@ -81,6 +81,531 @@ Gender: Male
 Music: Male
 Double Battle: No
 
+
+
+=== TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
+Name: BRENDAN
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Basic Trainer
+
+Treecko
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_BRENDAN_ROUTE_103_TREECKO ===
+Name: BRENDAN
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Check Bad Move / Try To Faint / Force Setup First Turn
+
+Torchic
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
+Name: BRENDAN
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Basic Trainer
+
+Mudkip
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_MAY_ROUTE_103_MUDKIP ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+
+Treecko
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_MAY_ROUTE_103_TREECKO ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+
+Torchic
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_MAY_ROUTE_103_TORCHIC ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+
+Mudkip
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+
+=== TRAINER_CALVIN_1 ===
+Name: CALVIN
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Starly
+Level: 5
+Ability: Keen Eye
+- Wing Attack
+- Sand Attack
+- Swagger
+
+Lillipup
+Level: 5
+Ability: Vital Spirit
+- Tackle
+- Bite
+- Sand Attack
+
+
+
+=== TRAINER_RICK ===
+Name: RICK
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Sizzlipede @ Oran Berry
+Level: 5
+Ability: Flash Fire
+- Ember
+- Bug Bite
+- Wrap
+
+Surskit @ Oran Berry
+Level: 5
+Ability: Swift Swim
+- Struggle Bug
+- Water Pulse
+- Quick Attack
+
+
+
+=== TRAINER_ALLEN ===
+Name: ALLEN
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Pansage @ Oran Berry
+Level: 6
+Ability: Overgrow
+- Bullet Seed
+- Leech Seed
+- Bite
+
+Panpour @ Oran Berry
+Level: 6
+Ability: Torrent
+- Water Pulse
+- Icy Wind
+
+Pansear @ Oran Berry
+Level: 6
+Ability: Blaze
+- Headbutt
+- Ember
+- Work Up
+
+
+
+=== TRAINER_TIANA ===
+Name: TIANA
+Class: Lass
+Pic: Lass
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer / Risky
+
+Hoppip @ Oran Berry
+Level: 7
+Ability: Chlorophyll
+- Stun Spore
+- Charm
+- Bullet Seed
+
+Clefairy @ Oran Berry
+Level: 7
+Ability: Cute Charm
+- Metronome
+- Metronome
+
+
+
+=== TRAINER_BILLY ===
+Name: BILLY
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Krabby @ Oran Berry
+Level: 9
+Ability: Shell Armor
+Nature: Relaxed
+- Aqua Jet
+- Stomp
+- Mud Shot
+
+Clobbopus @ Oran Berry
+Level: 9
+Ability: Limber
+- Rock Smash
+- Bind
+- Detect
+
+Wattrel @ Oran Berry
+Level: 9
+Ability: Competitive
+- Shock Wave
+- Air Cutter
+- Quick Attack
+
+
+
+=== TRAINER_DARIAN ===
+Name: DARIAN
+Class: Fisherman
+Pic: Fisherman
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Magikarp @ Choice Band
+Level: 12
+Ability: Rattled
+Nature: Adamant
+- Bounce
+
+Feebas @ Focus Sash
+Level: 12
+Ability: Adaptability
+Nature: Hasty
+- Hydro Pump
+- Flail
+- Tackle
+
+
+
+=== TRAINER_CINDY_1 ===
+Name: CINDY
+Class: Lady
+Pic: Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer
+
+Jigglypuff (F) @ Oran Berry
+Level: 10
+Ability: Cute Charm
+Nature: Bold
+- Round
+- Draining Kiss
+- Attract
+- Thunder Wave
+
+Stufful (F) @ Oran Berry
+Level: 10
+Ability: Cute Charm
+Nature: Adamant
+- Force Palm
+- Stomp
+- Attract
+
+Phanpy (M) @ Oran Berry
+Level: 10
+Ability: Cute Charm
+Nature: Jolly
+- Stomp
+- Ice Shard
+- Attract
+
+
+
+=== TRAINER_LYLE ===
+Name: LYLE
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Dewpider @ Berry Juice
+Level: 10
+Ability: Water Bubble
+Nature: Relaxed
+- Water Pulse
+- Bug Bite
+- Sticky Web
+
+Skorupi @ Oran Berry
+Level: 10
+Ability: Sniper
+Nature: Adamant
+- Bite
+- Fell Stinger
+- Poison Tail
+
+
+
+=== TRAINER_GRUNT_PETALBURG_WOODS ===
+Name: GRUNT
+Class: Team Aqua
+Pic: Aqua Grunt M
+Gender: Male
+Music: Aqua
+Double Battle: No
+AI: Smart Trainer
+
+Voltorb @ Oran Berry
+Level: 11
+Ability: Static
+Nature: Modest
+- Thunder Shock
+- Swift
+- Thunder Wave
+- Eerie Impulse
+
+Carvanha @ Oran Berry
+Level: 11
+Ability: Rough Skin
+Nature: Naive
+- Bite
+- Water Pulse
+- Aqua Jet
+- Poison Fang
+
+Croagunk @ Oran Berry
+Level: 11
+Ability: Poison Touch
+Nature: Hasty
+- Rock Smash
+- Poison Sting
+- Fake Out
+- Mud Shot
+
+
+
+=== TRAINER_JAMES_1 ===
+Name: JAMES
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Larvesta @ Oran Berry
+Level: 11
+Ability: Flame Body
+Nature: Careful
+- Flame Charge
+- Will-o-wisp
+- Pounce
+
+Trapinch @ Oran Berry
+Level: 11
+Ability: Arena Trap
+Nature: Relaxed
+- Bug Bite
+- Sand Tomb
+- Quick Attack
+
+Joltik @ Oran Berry
+Level: 10
+Ability: Compound Eyes
+Nature: Timid
+- Electroweb
+- Absorb
+- Struggle Bug
+
+
+
+=== TRAINER_WINSTON_1 ===
+Name: WINSTON
+Class: Rich Boy
+Pic: Rich Boy
+Gender: Male
+Music: Rich
+Double Battle: No
+AI: Smart Trainer
+
+Elekid @ Oran Berry
+Level: 12
+Ability: Static
+Nature: Lonely
+- Rock Smash
+- Shock Wave
+- Thunder Wave
+- Headbutt
+
+Growlithe @ Oran Berry
+Level: 12
+Ability: Intimidate
+Nature: Naive
+- Double Kick
+- Flame Wheel
+- Bite
+- Howl
+
+
+
+=== TRAINER_HALEY_1 ===
+Name: HALEY
+Class: Lass
+Pic: Lass
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer
+
+Shroomish (F) @ Oran Berry
+Level: 12
+Ability: Effect Spore
+Nature: Sassy
+- Mega Drain
+- Headbutt
+- Stun Spore
+- Leech Seed
+
+Numel (F) @ Oran Berry
+Level: 12
+Ability: Own Tempo
+Nature: Brave
+- Bulldoze
+- Incinerate
+- Focus Energy
+- Will-o-wisp
+
+Natu (F) @ Oran Berry
+Level: 12
+Ability: Synchronize
+Nature: Timid
+- Air Cutter
+- Silver Wind
+- Confuse Ray
+- Quick Attack
+
+
+
+=== TRAINER_GINA_AND_MIA_1 ===
+Name: GINA & MIA
+Class: Twins
+Pic: Twins
+Gender: Female
+Music: Twins
+Double Battle: Yes
+AI: Smart Trainer
+
+Nuzleaf @ Oran Berry
+Level: 12
+Ability: Chlorophyll
+Nature: Naive
+- Fake Out
+- Feint Attack
+- Rock Smash
+- Trailblaze
+
+Lombre @ Oran Berry
+Level: 12
+Ability: Swift Swim
+Nature: Calm
+- Fake Out
+- Mega Drain
+- Chilling Water
+- Mud Shot
+
+
+
+=== TRAINER_IVAN ===
+Name: IVAN
+Class: Fisherman
+Pic: Fisherman
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Barboach @ Expert Belt
+Level: 12
+Ability: Oblivious
+Nature: Sassy
+- Mud Slap
+- Icy Wind
+- Spark
+- Flail
+
+Slowpoke @ Oran Berry
+Level: 13
+Ability: Swift Swim
+Nature: Quiet
+- Psybeam
+- Chilling Water
+- Yawn
+- Disable
+
+Goldeen (F) @ Mystic Water
+Level: 13
+Ability: Swift Swim
+Nature: Mild
+- Supersonic
+- Water Pulse
+- Peck
+- Attract
+
+
+
 === TRAINER_SAWYER_1 ===
 Name: SAWYER
 Class: Hiker
@@ -222,41 +747,7 @@ Taillow
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_GRUNT_PETALBURG_WOODS ===
-Name: GRUNT
-Class: Team Aqua
-Pic: Aqua Grunt M
-Gender: Male
-Music: Aqua
-Double Battle: No
-AI: Smart Trainer
 
-Voltorb @ Oran Berry
-Level: 11
-Ability: Static
-Nature: Modest
-- Thunder Shock
-- Swift
-- Thunder Wave
-- Eerie Impulse
-
-Carvanha @ Oran Berry
-Level: 11
-Ability: Rough Skin
-Nature: Naive
-- Bite
-- Water Pulse
-- Aqua Jet
-- Poison Fang
-
-Croagunk @ Oran Berry
-Level: 11
-Ability: Poison Touch
-Nature: Hasty
-- Rock Smash
-- Poison Sting
-- Fake Out
-- Mud Shot
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -2136,39 +2627,7 @@ Grumpig
 Level: 42
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-=== TRAINER_CINDY_1 ===
-Name: CINDY
-Class: Lady
-Pic: Lady
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Smart Trainer
 
-Jigglypuff (F) @ Oran Berry
-Level: 10
-Ability: Cute Charm
-Nature: Bold
-- Round
-- Draining Kiss
-- Attract
-- Thunder Wave
-
-Stufful (F) @ Oran Berry
-Level: 10
-Ability: Cute Charm
-Nature: Adamant
-- Force Palm
-- Stomp
-- Attract
-
-Phanpy (M) @ Oran Berry
-Level: 10
-Ability: Cute Charm
-Nature: Jolly
-- Stomp
-- Ice Shard
-- Attract
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -2560,33 +3019,6 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Glare
 - Crunch
 
-
-=== TRAINER_WINSTON_1 ===
-Name: WINSTON
-Class: Rich Boy
-Pic: Rich Boy
-Gender: Male
-Music: Rich
-Double Battle: No
-AI: Smart Trainer
-
-Elekid @ Oran Berry
-Level: 12
-Ability: Static
-Nature: Lonely
-- Rock Smash
-- Shock Wave
-- Thunder Wave
-- Headbutt
-
-Growlithe @ Oran Berry
-Level: 12
-Ability: Intimidate
-Nature: Naive
-- Double Kick
-- Flame Wheel
-- Bite
-- Howl
 
 
 === TRAINER_MOLLIE ===
@@ -4846,39 +5278,70 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 - Crunch
 
+
+
 === TRAINER_ROXANNE_1 ===
 Name: ROXANNE
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Potion / Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
+Nosepass (F) @ Oran Berry
+Level: 16
+Ability: Sturdy
+Nature: Naughty
+- Thunder Wave
+- Taunt
+- Rock Smash
+- Spark
+
+Anorith @ Cheri Berry
+Level: 14
+Ability: Battle Armor
+Nature: Adamant
+- Bug Bite
 - Rock Tomb
+- Metal Claw
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Lileep @ Oran Berry
+Level: 14
+Ability: Suction Cups
+Nature: Modest
+- Mega Drain
+- Sludge
+- Ancient Power
 
-Nosepass @ Oran Berry
+Growlithe_Hisui @ Lum Berry
 Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
+Ability: Intimidate
+Nature: Jolly
+- Flame Wheel
 - Rock Tomb
+- Bite
+- Double Kick
+
+Corsola @ Oran Berry
+Level: 15
+Ability: Natural Cure
+Nature: Lax
+- Icy Wind
+- Ancient Power
+- Water Pulse
+- Mud Shot
+
+Lunatone @ Lum Berry
+Level: 14
+Ability: Levitate
+Nature: Lonely
+- Confusion
+- Rock Throw
+- Hypnosis
+- Swift
+
+
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -6012,59 +6475,8 @@ Hariyama
 Level: 39
 IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
-=== TRAINER_CALVIN_1 ===
-Name: CALVIN
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
 
-Starly
-Level: 5
-Ability: Keen Eye
-- Wing Attack
-- Sand Attack
-- Swagger
 
-Lillipup
-Level: 5
-Ability: Vital Spirit
-- Tackle
-- Bite
-- Sand Attack
-
-=== TRAINER_BILLY ===
-Name: BILLY
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Krabby @ Oran Berry
-Level: 9
-Ability: Shell Armor
-Nature: Relaxed
-- Aqua Jet
-- Stomp
-- Mud Shot
-
-Clobbopus @ Oran Berry
-Level: 9
-Ability: Limber
-- Rock Smash
-- Bind
-- Detect
-
-Wattrel @ Oran Berry
-Level: 9
-Ability: Competitive
-- Shock Wave
-- Air Cutter
-- Quick Attack
 
 === TRAINER_JOSH ===
 Name: JOSH
@@ -6073,12 +6485,35 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Geodude
-Level: 10
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
+Geodude_Alola
+Level: 13
+Ability: Sturdy
+Nature: Adamant
+- Thunder Punch
+- Rock Tomb
+- Rock Smash
+
+Bonsly @ Lum Berry
+Level: 13
+Ability: Sturdy
+Nature: Sassy
+- Ice Punch
+- Rock Tomb
+- Headbutt
+- Low Kick
+
+Rockruff @ Sitrus Berry
+Level: 13
+Ability: Keen Eye
+Nature: Impish
+- Bite
+- Fire Fang
+- Rock Tomb
+- Dig
+
+
 
 === TRAINER_TOMMY ===
 Name: TOMMY
@@ -6324,34 +6759,7 @@ Zigzagoon
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_ALLEN ===
-Name: ALLEN
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
 
-Pansage @ Oran Berry
-Level: 6
-Ability: Overgrow
-- Bullet Seed
-- Leech Seed
-- Bite
-
-Panpour @ Oran Berry
-Level: 6
-Ability: Torrent
-- Water Pulse
-- Icy Wind
-
-Pansear @ Oran Berry
-Level: 6
-Ability: Blaze
-- Headbutt
-- Ember
-- Work Up
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -6450,41 +6858,7 @@ Magikarp
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_IVAN ===
-Name: IVAN
-Class: Fisherman
-Pic: Fisherman
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Check Bad Move
 
-Barboach @ Expert Belt
-Level: 12
-Ability: 
-Nature: Sassy
-- Mud Slap
-- Icy Wind
-- Spark
-- Flail
-
-Slowpoke @ Oran Berry
-Level: 13
-Ability: Swift Swim
-Nature: Quiet
-- Psybeam
-- Chilling Water
-- Yawn
-- Disable
-
-Goldeen @ Mystic Water
-Level: 13
-Ability: Swift Swim
-Nature: Adamant
-- Supersonic
-- Horn Attack
-- Peck
-- Attract
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -8943,33 +9317,6 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 
-=== TRAINER_GINA_AND_MIA_1 ===
-Name: GINA & MIA
-Class: Twins
-Pic: Twins
-Gender: Female
-Music: Twins
-Double Battle: Yes
-AI: Smart Trainer
-
-Nuzleaf @ Oran Berry
-Level: 12
-Ability: Chlorophyll
-Nature: Naive
-- Fake Out
-- Feint Attack
-- Rock Smash
-- Trailblaze
-
-Lombre @ Oran Berry
-Level: 12
-Ability: Swift Swim
-Nature: Calm
-- Fake Out
-- Mega Drain
-- Chilling Water
-- Mud Shot
-
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -9658,18 +10005,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Psychic
 - Future Sight
 
-=== TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
 
-Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -9713,18 +10049,7 @@ Grovyle
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_BRENDAN_ROUTE_103_TREECKO ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
-Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -9768,18 +10093,7 @@ Combusken
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
 
-Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -9823,18 +10137,7 @@ Marshtomp
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: MAY
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Basic Trainer
 
-Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -9878,18 +10181,7 @@ Grovyle
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_TREECKO ===
-Name: MAY
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Basic Trainer
 
-Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -9933,18 +10225,7 @@ Combusken
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: MAY
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Basic Trainer
 
-Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
@@ -11201,63 +11482,6 @@ Camerupt
 Level: 25
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_TIANA ===
-Name: TIANA
-Class: Lass
-Pic: Lass
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Smart Trainer / Risky
-
-Hoppip @ Oran Berry
-Level: 7
-Ability: Chlorophyll
-- Stun Spore
-- Charm
-- Bullet Seed
-
-Clefairy @ Oran Berry
-Level: 7
-Ability: Cute Charm
-- Fairy Wind
-- Metronome
-
-=== TRAINER_HALEY_1 ===
-Name: HALEY
-Class: Lass
-Pic: Lass
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Smart Trainer
-
-Shroomish (F) @ Oran Berry
-Level: 12
-Ability: Effect Spore
-Nature: Sassy
-- Mega Drain
-- Headbutt
-- Stun Spore
-- Leech Seed
-
-Numel (F) @ Oran Berry
-Level: 12
-Ability: Own Tempo
-Nature: Brave
-- Bulldoze
-- Incinerate
-- Focus Energy
-- Will-o-wisp
-
-Natu (F) @ Oran Berry
-Level: 12
-Ability: Synchronize
-Nature: Timid
-- Air Cutter
-- Silver Wind
-- Confuse Ray
-- Quick Attack
 
 
 === TRAINER_JANICE ===
@@ -11430,54 +11654,6 @@ Wailmer
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-=== TRAINER_RICK ===
-Name: RICK
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Sizzlipede @ Oran Berry
-Level: 5
-Ability: Flash Fire
-- Ember
-- Bug Bite
-- Wrap
-
-Surskit @ Oran Berry
-Level: 5
-Ability: Swift Swim
-- Struggle Bug
-- Water Pulse
-- Quick Attack
-
-
-=== TRAINER_LYLE ===
-Name: LYLE
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Dewpider @ Berry Juice
-Level: 10
-Ability: Water Bubble
-Nature: Relaxed
-- Water Pulse
-- Bug Bite
-- Sticky Web
-
-Skorupi @ Oran Berry
-Level: 10
-Ability: Sniper
-Nature: Adamant
-- Bite
-- Fell Stinger
-- Poison Tail
 
 
 === TRAINER_JOSE ===
@@ -11554,38 +11730,7 @@ Ninjask
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_JAMES_1 ===
-Name: JAMES
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
 
-Larvesta @ Oran Berry
-Level: 11
-Ability: Flame Body
-Nature: Careful
-- Flame Charge
-- Will-o-wisp
-- Pounce
-
-Trapinch @ Oran Berry
-Level: 11
-Ability: Arena Trap
-Nature: Relaxed
-- Bug Bite
-- Sand Tomb
-- Quick Attack
-
-Joltik @ Oran Berry
-Level: 10
-Ability: Compound Eyes
-Nature: Timid
-- Electroweb
-- Absorb
-- Struggle Bug
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -13198,28 +13343,7 @@ Zigzagoon @ Nugget
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_DARIAN ===
-Name: DARIAN
-Class: Fisherman
-Pic: Fisherman
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Smart Trainer
 
-Magikarp @ Choice Band
-Level: 12
-Ability: Rattled
-Nature: Adamant
-- Bounce
-
-Feebas @ Focus Sash
-Level: 12
-Ability: Adaptability
-Nature: Hasty
-- Hydro Pump
-- Flail
-- Tackle
 
 === TRAINER_HAILEY ===
 Name: HAILEY

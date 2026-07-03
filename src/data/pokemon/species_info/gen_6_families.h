@@ -69,6 +69,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Chespin,
             gShinyOverworldPalette_Chespin
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sChespinLevelUpLearnset,
         .teachableLearnset = sChespinTeachableLearnset,
         .eggMoveLearnset = sChespinEggMoveLearnset,
@@ -140,6 +141,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Quilladin,
             gShinyOverworldPalette_Quilladin
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sQuilladinLevelUpLearnset,
         .teachableLearnset = sQuilladinTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_CHESNAUGHT}),
@@ -208,6 +210,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Chesnaught,
             gShinyOverworldPalette_Chesnaught
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sChesnaughtLevelUpLearnset,
         .teachableLearnset = sChesnaughtTeachableLearnset,
     },
@@ -281,6 +284,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Fennekin,
             gShinyOverworldPalette_Fennekin
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sFennekinLevelUpLearnset,
         .teachableLearnset = sFennekinTeachableLearnset,
         .eggMoveLearnset = sFennekinEggMoveLearnset,
@@ -350,6 +354,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Braixen,
             gShinyOverworldPalette_Braixen
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sBraixenLevelUpLearnset,
         .teachableLearnset = sBraixenTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_DELPHOX}),
@@ -422,6 +427,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Delphox,
             gShinyOverworldPalette_Delphox
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sDelphoxLevelUpLearnset,
         .teachableLearnset = sDelphoxTeachableLearnset,
     },
@@ -495,6 +501,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Froakie,
             gShinyOverworldPalette_Froakie
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sFroakieLevelUpLearnset,
         .teachableLearnset = sFroakieTeachableLearnset,
         .eggMoveLearnset = sFroakieEggMoveLearnset,
@@ -563,6 +570,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Frogadier,
             gShinyOverworldPalette_Frogadier
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sFrogadierLevelUpLearnset,
         .teachableLearnset = sFrogadierTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_GRENINJA}),
@@ -624,6 +632,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             gOverworldPalette_Greninja,
             gShinyOverworldPalette_Greninja
         )
+        .perfectIVCount = 3,
         .levelUpLearnset = sGreninjaLevelUpLearnset,
         .teachableLearnset = sGreninjaTeachableLearnset,
         .formSpeciesIdTable = sGreninjaFormSpeciesIdTable,

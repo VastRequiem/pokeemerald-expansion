@@ -1702,6 +1702,14 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_RUSTBORO_LAKE",
+      "name": "RUSTBORO LAKE",
+      "x": 0,
+      "y": 7,
+      "width": 1,
+      "height": 1
     }
   ]
 }
