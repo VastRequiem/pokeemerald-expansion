@@ -2057,7 +2057,6 @@ LittlerootTown_EventScript_RunningKid::
 	return
 
 
-
 LittlerootTown_EventScript_HillSign_Text_0:
 # 1023 "data/maps/LittlerootTown/scripts.pory"
 	.string "This is out new sign$"
@@ -2070,18 +2069,3 @@ LittlerootTown_EventScript_RunningKid_Text_1:
 # 1031 "data/maps/LittlerootTown/scripts.pory"
 	.string "Here, take these Candies with you and\n"
 	.string "have fun!$"
-
-LittlerootTown_EventScript_Archie_Text_0:
-# 1039 "data/maps/LittlerootTown/scripts.pory"
-	.string "I am Team Aqua Leader Archie and I\n"
-	.string "proclaim this world belongs to all sea\l"
-	.string "life!$"
-
-LittlerootTown_EventScript_Archie_Text_1:
-# 1041 "data/maps/LittlerootTown/scripts.pory"
-	.string "Take this creature of the sea with you\n"
-	.string "on your journey!$"
-
-LittlerootTown_EventScript_Archie_Text_2:
-# 1044 "data/maps/LittlerootTown/scripts.pory"
-	.string "{PLAYER} received Clamperl$"
