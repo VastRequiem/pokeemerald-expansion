@@ -43,7 +43,7 @@
 #define TEMP_FLAGS_END   FLAG_TEMP_1F
 #define NUM_TEMP_FLAGS   (TEMP_FLAGS_END - TEMP_FLAGS_START + 1)
 
-#define FLAG_LITTLEROOT_GIVE_CLAMPERL    0x20 // mychange Test Littleroot Archie gives shiny Clamperl
+#define FLAG_RANDOM_BABY_EGG    0x20 // mychange Test random baby egg like from Renegade Platinum
 #define FLAG_UNUSED_0x021    0x21 // Unused Flag
 #define FLAG_UNUSED_0x022    0x22 // Unused Flag
 #define FLAG_UNUSED_0x023    0x23 // Unused Flag

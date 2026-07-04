@@ -307,7 +307,7 @@
               {
                 "min_level": 3,
                 "max_level": 5,
-                "species": "SPECIES_HOPPIP"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 3,
@@ -322,22 +322,22 @@
               {
                 "min_level": 3,
                 "max_level": 5,
+                "species": "SPECIES_ODDISH"
+              },
+              {
+                "min_level": 3,
+                "max_level": 5,
                 "species": "SPECIES_GOSSIFLEUR"
               },
               {
                 "min_level": 3,
                 "max_level": 5,
-                "species": "SPECIES_EXEGGCUTE"
+                "species": "SPECIES_GOSSIFLEUR"
               },
               {
                 "min_level": 3,
                 "max_level": 5,
-                "species": "SPECIES_EXEGGCUTE"
-              },
-              {
-                "min_level": 3,
-                "max_level": 5,
-                "species": "SPECIES_DEERLING"
+                "species": "SPECIES_SUNKERN"
               },
               {
                 "min_level": 3,
@@ -416,7 +416,7 @@
               {
                 "min_level": 6,
                 "max_level": 8,
-                "species": "SPECIES_SHROOMISH"
+                "species": "SPECIES_EXEGGCUTE"
               },
               {
                 "min_level": 6,
@@ -1329,7 +1329,7 @@
               {
                 "min_level": 9,
                 "max_level": 12,
-                "species": "SPECIES_BONSLY"
+                "species": "SPECIES_ROCKRUFF"
               },
               {
                 "min_level": 9,
@@ -1844,7 +1844,7 @@
               {
                 "min_level": 8,
                 "max_level": 12,
-                "species": "SPECIES_DUNSPARCE"
+                "species": "SPECIES_TEDDIURSA"
               },
               {
                 "min_level": 8,
@@ -11292,7 +11292,7 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_CHINGLING"
+                "species": "SPECIES_MASCHIFF"
               },
               {
                 "min_level": 7,
@@ -11302,7 +11302,7 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_MASCHIFF"
+                "species": "SPECIES_SKITTY"
               },
               {
                 "min_level": 7,
