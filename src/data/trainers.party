@@ -523,7 +523,7 @@ Numel (F) @ Oran Berry
 Level: 12
 Ability: Own Tempo
 Nature: Brave
-- Bulldoze
+- Stomp
 - Incinerate
 - Focus Energy
 - Will-o-wisp
@@ -532,7 +532,6 @@ Natu (F) @ Oran Berry
 Level: 12
 Ability: Synchronize
 Nature: Timid
-- Air Cutter
 - Silver Wind
 - Confuse Ray
 - Quick Attack
@@ -603,6 +602,382 @@ Nature: Mild
 - Water Pulse
 - Peck
 - Attract
+
+
+
+=== TRAINER_JOEY ===
+Name: JOEY
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Machop @ Oran Berry
+Level: 13
+Ability: Guts
+Nature: Careful
+- Rock Smash
+- Bullet Punch
+- Dual Chop
+
+Buizel @ Oran Berry
+Level: 13
+Ability: Swift Swim
+Nature: Naive
+- Aqua Jet
+- Pursuit
+- Ice Fang
+- Headbutt
+
+Stunky @ Oran Berry
+Level: 13
+Ability: Stench
+Nature: Naive
+- Headbutt
+- Incinerate
+- Clear Smog
+- Bite
+
+
+
+=== TRAINER_JOSE ===
+Name: JOSE
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Karrablast @ Silver Powder
+Level: 13
+Ability: Swarm
+Nature: Jolly
+- Bug Bite
+- Flail
+- Aerial Ace
+- Headbutt
+
+Shelmet @ Silver Powder
+Level: 13
+Ability: Shell Armor
+Nature: Brave
+- Bug Bite
+- Mega Drain
+- Yawn
+- Pursuit
+
+
+
+=== TRAINER_KAREN_1 ===
+Name: KAREN
+Class: School Kid
+Pic: School Kid F
+Gender: Female
+Music: Girl
+Double Battle: No
+AI: Smart Trainer
+
+Purrloin (F) @ Oran Berry
+Level: 13
+Ability: Prankster
+Nature: Adamant
+- Fake Out
+- Quick Attack
+- Shadow Claw
+- Payback
+
+Fletchling @ Oran Berry
+Level: 13
+Ability: Big Pecks
+Nature: Rash
+- Quick Attack
+- Incinerate
+- Air Cutter
+- Steel Wing
+
+
+
+=== TRAINER_JOHNSON ===
+Name: JOHNSON
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Oddish @ Oran Berry
+Level: 13
+Ability: Chlorophyll
+Nature: Hardy
+- Magical Leaf
+- Sludge
+- Stun Spore
+- Flail
+
+Blitzle @ Persim Berry
+Level: 13
+Ability: Lightning Rod
+Nature: Naive
+- Spark
+- Quick Attack
+- Flame Charge
+- Thunder Wave
+
+
+
+=== TRAINER_CLARK ===
+Name: CLARK
+Class: Hiker
+Pic: Hiker
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Spheal @ Oran Berry
+Level: 13
+Ability: Thick Fat
+Nature: Quiet
+- Icy Wind
+- Water Pulse
+- Water Sport
+- Swagger
+
+Roggenrola (F)
+Level: 13
+Ability: Sturdy
+Nature: Relaxed
+- Sand Attack
+- Smack Down
+- Attract
+- Rock Smash
+
+
+
+=== TRAINER_DEVAN ===
+Name: DEVAN
+Class: Hiker
+Pic: Hiker
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Timburr @ Oran Berry
+Level: 13
+Ability: Guts
+Nature: Adamant
+- Mach Punch
+- Rock Throw
+- Pound
+
+Diglett @ Oran Berry
+Level: 13
+Ability: Arena Trap
+Nature: Careful
+- Bulldoze
+- Rock Smash
+- Feint Attack
+- Astonish
+
+Spearow @ Oran Berry
+Level: 14
+Ability: Sniper
+Nature: Adamant
+- Aerial Ace
+- Pursuit
+- Steel Wing
+- Quick Attack
+
+
+
+=== TRAINER_JOSH ===
+Name: JOSH
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Geodude_Alola
+Level: 13
+Ability: Sturdy
+Nature: Adamant
+- Thunder Punch
+- Rock Tomb
+- Rock Smash
+
+Bonsly @ Lum Berry
+Level: 13
+Ability: Sturdy
+Nature: Sassy
+- Ice Punch
+- Rock Tomb
+- Headbutt
+- Low Kick
+
+Rockruff @ Sitrus Berry
+Level: 13
+Ability: Keen Eye
+Nature: Impish
+- Bite
+- Fire Fang
+- Rock Tomb
+- Dig
+
+
+
+=== TRAINER_MARC ===
+Name: MARC
+Class: Hiker
+Pic: Hiker
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Dwebble @ Silver Powder
+Level: 13
+Ability: Sturdy
+Nature: Careful
+- Skitter Smack
+- Smack Down
+- Flail
+- Rock Smash
+
+Rhyhorn
+Level: 12
+Ability: Lightning Rod
+Nature: Adamant
+- Fire Fang
+- Bulldoze
+- Stomp
+- Scary Face
+
+Omanyte @ Mystic Water
+Level: 13
+Ability: Shell Armor
+Nature: Modest
+- Ancient Power
+- Water Pulse
+- Mud Shot
+
+
+
+=== TRAINER_TOMMY ===
+Name: TOMMY
+Class: Youngster
+Pic: Youngster
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Tyrunt @ Oran Berry
+Level: 13
+Ability: Strong Jaw
+Nature: Impish
+- Bite
+- Rock Tomb
+
+Amaura @ Oran Berry
+Level: 13
+Ability: Refrigerate
+Nature: Relaxed
+- Freeze-Dry
+- Ancient Power
+- Thunder Wave
+
+Aron @ Salac Berry
+Level: 13
+Ability: Sturdy
+Nature: Jolly
+- Iron Head
+- Rock Tomb
+- Headbutt
+
+
+
+=== TRAINER_ROXANNE_1 ===
+Name: ROXANNE
+Class: Leader
+Pic: Leader Roxanne
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer
+
+Nosepass (F) @ Oran Berry
+Level: 16
+Ability: Sturdy
+Nature: Naughty
+- Thunder Wave
+- Taunt
+- Rock Smash
+- Spark
+
+Anorith @ Cheri Berry
+Level: 14
+Ability: Battle Armor
+Nature: Adamant
+- Bug Bite
+- Rock Tomb
+- Metal Claw
+
+Lileep @ Oran Berry
+Level: 14
+Ability: Suction Cups
+Nature: Modest
+- Mega Drain
+- Sludge
+- Ancient Power
+
+Growlithe_Hisui @ Lum Berry
+Level: 15
+Ability: Intimidate
+Nature: Jolly
+- Flame Wheel
+- Rock Tomb
+- Bite
+- Double Kick
+
+Corsola @ Oran Berry
+Level: 13
+Ability: Natural Cure
+Nature: Timid
+- Icy Wind
+- Ancient Power
+- Water Pulse
+- Confuse Ray
+
+Lunatone @ Lum Berry
+Level: 14
+Ability: Levitate
+Nature: Lonely
+- Confusion
+- Rock Throw
+- Hypnosis
+- Swift
+
+
+
+=== TRAINER_GRUNT_RUSTURF_TUNNEL ===
+Name: GRUNT
+Class: Team Aqua
+Pic: Aqua Grunt M
+Gender: Male
+Music: Aqua
+Double Battle: No
+AI: Smart Trainer
+
+Poochyena
+Level: 11
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 
@@ -827,18 +1202,7 @@ Gyarados
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_GRUNT_RUSTURF_TUNNEL ===
-Name: GRUNT
-Class: Team Aqua
-Pic: Aqua Grunt M
-Gender: Male
-Music: Aqua
-Double Battle: No
-AI: Check Bad Move
 
-Poochyena
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_1 ===
 Name: GRUNT
@@ -5280,66 +5644,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 
 
-=== TRAINER_ROXANNE_1 ===
-Name: ROXANNE
-Class: Leader
-Pic: Leader Roxanne
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Smart Trainer
 
-Nosepass (F) @ Oran Berry
-Level: 16
-Ability: Sturdy
-Nature: Naughty
-- Thunder Wave
-- Taunt
-- Rock Smash
-- Spark
-
-Anorith @ Cheri Berry
-Level: 14
-Ability: Battle Armor
-Nature: Adamant
-- Bug Bite
-- Rock Tomb
-- Metal Claw
-
-Lileep @ Oran Berry
-Level: 14
-Ability: Suction Cups
-Nature: Modest
-- Mega Drain
-- Sludge
-- Ancient Power
-
-Growlithe_Hisui @ Lum Berry
-Level: 15
-Ability: Intimidate
-Nature: Jolly
-- Flame Wheel
-- Rock Tomb
-- Bite
-- Double Kick
-
-Corsola @ Oran Berry
-Level: 15
-Ability: Natural Cure
-Nature: Lax
-- Icy Wind
-- Ancient Power
-- Water Pulse
-- Mud Shot
-
-Lunatone @ Lum Berry
-Level: 14
-Ability: Levitate
-Nature: Lonely
-- Confusion
-- Rock Throw
-- Hypnosis
-- Swift
 
 
 
@@ -5764,32 +6069,7 @@ Medicham
 Level: 34
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-=== TRAINER_KAREN_1 ===
-Name: KAREN
-Class: School Kid
-Pic: School Kid F
-Gender: Female
-Music: Girl
-Double Battle: No
-AI: Smart Trainer
 
-Purrloin (F) @ Oran Berry
-Level: 13
-Ability: Prankster
-Nature: Adamant
-- Fake Out
-- Quick Attack
-- Shadow Claw
-- Payback
-
-Fletchling @ Oran Berry
-Level: 13
-Ability: Big Pecks
-Nature: Rash
-- Quick Attack
-- Incinerate
-- Air Cutter
-- Steel Wing
 
 === TRAINER_GEORGIA ===
 Name: GEORGIA
@@ -6477,95 +6757,6 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 
 
-
-=== TRAINER_JOSH ===
-Name: JOSH
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Geodude_Alola
-Level: 13
-Ability: Sturdy
-Nature: Adamant
-- Thunder Punch
-- Rock Tomb
-- Rock Smash
-
-Bonsly @ Lum Berry
-Level: 13
-Ability: Sturdy
-Nature: Sassy
-- Ice Punch
-- Rock Tomb
-- Headbutt
-- Low Kick
-
-Rockruff @ Sitrus Berry
-Level: 13
-Ability: Keen Eye
-Nature: Impish
-- Bite
-- Fire Fang
-- Rock Tomb
-- Dig
-
-
-
-=== TRAINER_TOMMY ===
-Name: TOMMY
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Check Bad Move
-
-Geodude
-Level: 8
-IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
-
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
-
-=== TRAINER_JOEY ===
-Name: JOEY
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Machop @ Oran Berry
-Level: 13
-Ability: Guts
-Nature: Careful
-- Rock Smash
-- Bullet Punch
-- Dual Chop
-
-Buizel @ Oran Berry
-Level: 13
-Ability: Swift Swim
-Nature: Naive
-- Aqua Jet
-- Pursuit
-- Ice Fang
-- Headbutt
-
-Stunky @ Oran Berry
-Level: 13
-Ability: Stench
-Nature: Naive
-- Headbutt
-- Incinerate
-- Clear Smog
-- Bite
 
 === TRAINER_BEN ===
 Name: BEN
@@ -10989,22 +11180,7 @@ Numel
 Level: 22
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-=== TRAINER_MARC ===
-Name: MARC
-Class: Hiker
-Pic: Hiker
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Check Bad Move
 
-Geodude
-Level: 8
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
-
-Geodude
-Level: 8
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_BRENDEN ===
 Name: BRENDEN
@@ -11656,32 +11832,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 
-=== TRAINER_JOSE ===
-Name: JOSE
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Karrablast @ Silver Powder
-Level: 13
-Ability: Swarm
-Nature: Jolly
-- Bug Bite
-- Flail
-- Aerial Ace
-- Headbutt
-
-Shelmet @ Silver Powder
-Level: 13
-Ability: Shell Armor
-Nature: Brave
-- Bug Bite
-- Mega Drain
-- Yawn
-- Pursuit
 
 === TRAINER_DOUG ===
 Name: DOUG
@@ -11901,32 +12051,7 @@ Graveler
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_CLARK ===
-Name: CLARK
-Class: Hiker
-Pic: Hiker
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Smart Trainer
 
-Spheal @ Oran Berry
-Level: 13
-Ability: Thick Fat
-Nature: Quiet
-- Icy Wind
-- Water Pulse
-- Water Sport
-- Swagger
-
-Roggenrola (F)
-Level: 13
-Ability: Sturdy
-Nature: Relaxed
-- Sand Attack
-- Smack Down
-- Attract
-- Rock Smash
 
 
 === TRAINER_ERIC ===
@@ -14215,67 +14340,7 @@ Spoink
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_DEVAN ===
-Name: DEVAN
-Class: Hiker
-Pic: Hiker
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Smart Trainer
 
-Timburr @ Oran Berry
-Level: 13
-Ability: Guts
-Nature: Adamant
-- Mach Punch
-- Rock Throw
-- Pound
-
-Diglett @ Oran Berry
-Level: 13
-Ability: Arena Trap
-Nature: Careful
-- Bulldoze
-- Rock Smash
-- Feint Attack
-- Astonish
-
-Spearow @ Oran Berry
-Level: 14
-Ability: Sniper
-Nature: Adamant
-- Aerial Ace
-- Pursuit
-- Steel Wing
-- Quick Attack
-
-=== TRAINER_JOHNSON ===
-Name: JOHNSON
-Class: Youngster
-Pic: Youngster
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Smart Trainer
-
-Oddish @ Oran Berry
-Level: 13
-Ability: Chlorophyll
-Nature: Hardy
-- Magical Leaf
-- Sludge
-- Stun Spore
-- Flail
-
-Blitzle @ Persim Berry
-Level: 13
-Ability: Lightning Rod
-Nature: Naive
-- Spark
-- Quick Attack
-- Flame Charge
-- Thunder Wave
 
 
 === TRAINER_MELINA ===

@@ -43,16 +43,16 @@
         {
           "type": "fishing_mons",
           "encounter_rates": [
-            50,
-            30,
-            20,
             40,
             30,
             30,
-            40,
             30,
+            25,
+            25,
             20,
-            10
+            25,
+            25,
+            25
           ],
           "groups": {
             "old_rod": [
@@ -84,7 +84,7 @@
               {
                 "min_level": 3,
                 "max_level": 4,
-                "species": "SPECIES_ZIGZAGOON_GALAR"
+                "species": "SPECIES_ZIGZAGOON"
               },
               {
                 "min_level": 3,
@@ -8734,12 +8734,12 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_POLIWAG"
+                "species": "SPECIES_SHINX"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_POLIWAG"
+                "species": "SPECIES_SHINX"
               },
               {
                 "min_level": 5,
@@ -8809,7 +8809,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_REMORAID"
+                "species": "SPECIES_POLIWAG"
               },
               {
                 "min_level": 5,
@@ -11133,6 +11133,36 @@
                 "species": "SPECIES_NONE"
               }
             ]
+          },
+          "water_mons": {
+            "encounter_rate": 4,
+            "mons": [
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              }
+            ]
           }
         },
         {
@@ -11233,27 +11263,27 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_NUMEL"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_NUMEL"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_NUMEL"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_NUMEL"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_MAGBY"
+                "species": "SPECIES_NUMEL"
               }
             ]
           }
