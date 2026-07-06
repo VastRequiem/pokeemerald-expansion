@@ -207,14 +207,14 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Sizzlipede @ Oran Berry
+Sizzlipede
 Level: 5
 Ability: Flash Fire
 - Ember
 - Bug Bite
 - Wrap
 
-Surskit @ Oran Berry
+Surskit
 Level: 5
 Ability: Swift Swim
 - Struggle Bug
@@ -232,20 +232,20 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Pansage @ Oran Berry
+Pansage
 Level: 6
 Ability: Overgrow
 - Bullet Seed
 - Leech Seed
 - Bite
 
-Panpour @ Oran Berry
+Panpour
 Level: 6
 Ability: Torrent
 - Water Pulse
 - Icy Wind
 
-Pansear @ Oran Berry
+Pansear
 Level: 6
 Ability: Blaze
 - Headbutt
@@ -263,14 +263,14 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer / Risky
 
-Hoppip @ Oran Berry
+Hoppip
 Level: 7
 Ability: Chlorophyll
 - Stun Spore
 - Charm
 - Bullet Seed
 
-Clefairy @ Oran Berry
+Clefairy
 Level: 7
 Ability: Cute Charm
 - Metronome
@@ -287,7 +287,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Krabby @ Oran Berry
+Krabby
 Level: 9
 Ability: Shell Armor
 Nature: Relaxed
@@ -295,14 +295,14 @@ Nature: Relaxed
 - Stomp
 - Mud Shot
 
-Clobbopus @ Oran Berry
+Clobbopus
 Level: 9
 Ability: Limber
 - Rock Smash
 - Bind
 - Detect
 
-Wattrel @ Oran Berry
+Wattrel
 Level: 9
 Ability: Competitive
 - Shock Wave
@@ -345,7 +345,7 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Jigglypuff (F) @ Oran Berry
+Jigglypuff (F)
 Level: 10
 Ability: Cute Charm
 Nature: Bold
@@ -354,7 +354,7 @@ Nature: Bold
 - Attract
 - Thunder Wave
 
-Stufful (F) @ Oran Berry
+Stufful (F)
 Level: 10
 Ability: Cute Charm
 Nature: Adamant
@@ -362,7 +362,7 @@ Nature: Adamant
 - Stomp
 - Attract
 
-Phanpy (M) @ Oran Berry
+Phanpy (F)
 Level: 10
 Ability: Cute Charm
 Nature: Jolly
@@ -381,7 +381,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Dewpider @ Berry Juice
+Dewpider
 Level: 10
 Ability: Water Bubble
 Nature: Relaxed
@@ -389,7 +389,7 @@ Nature: Relaxed
 - Bug Bite
 - Sticky Web
 
-Skorupi @ Oran Berry
+Skorupi
 Level: 10
 Ability: Sniper
 Nature: Adamant
@@ -446,7 +446,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Larvesta @ Oran Berry
+Larvesta
 Level: 11
 Ability: Flame Body
 Nature: Careful
@@ -454,15 +454,15 @@ Nature: Careful
 - Will-o-wisp
 - Pounce
 
-Trapinch @ Oran Berry
+Trapinch
 Level: 11
-Ability: Arena Trap
+Ability: Hyper Cutter
 Nature: Relaxed
 - Bug Bite
 - Sand Tomb
 - Quick Attack
 
-Joltik @ Oran Berry
+Joltik
 Level: 10
 Ability: Compound Eyes
 Nature: Timid
@@ -481,7 +481,7 @@ Music: Rich
 Double Battle: No
 AI: Smart Trainer
 
-Elekid @ Oran Berry
+Elekid
 Level: 12
 Ability: Static
 Nature: Lonely
@@ -490,7 +490,7 @@ Nature: Lonely
 - Thunder Wave
 - Headbutt
 
-Growlithe @ Oran Berry
+Growlithe
 Level: 12
 Ability: Intimidate
 Nature: Naive
@@ -510,7 +510,7 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Shroomish (F) @ Oran Berry
+Shroomish (F)
 Level: 12
 Ability: Effect Spore
 Nature: Sassy
@@ -519,7 +519,7 @@ Nature: Sassy
 - Stun Spore
 - Leech Seed
 
-Numel (F) @ Oran Berry
+Numel (F)
 Level: 12
 Ability: Own Tempo
 Nature: Brave
@@ -528,13 +528,14 @@ Nature: Brave
 - Focus Energy
 - Will-o-wisp
 
-Natu (F) @ Oran Berry
+Natu (F)
 Level: 12
 Ability: Synchronize
-Nature: Timid
-- Silver Wind
+Nature: Hasty
+- Confusion
 - Confuse Ray
 - Quick Attack
+- Pluck
 
 
 
@@ -576,7 +577,7 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer
 
-Barboach @ Expert Belt
+Barboach
 Level: 12
 Ability: Oblivious
 Nature: Sassy
@@ -585,8 +586,8 @@ Nature: Sassy
 - Spark
 - Flail
 
-Slowpoke @ Oran Berry
-Level: 13
+Slowpoke
+Level: 12
 Ability: Swift Swim
 Nature: Quiet
 - Psybeam
@@ -594,8 +595,8 @@ Nature: Quiet
 - Yawn
 - Disable
 
-Goldeen (F) @ Mystic Water
-Level: 13
+Goldeen (F)
+Level: 12
 Ability: Swift Swim
 Nature: Mild
 - Supersonic
@@ -614,7 +615,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Machop @ Oran Berry
+Machop
 Level: 13
 Ability: Guts
 Nature: Careful
@@ -622,7 +623,7 @@ Nature: Careful
 - Bullet Punch
 - Dual Chop
 
-Buizel @ Oran Berry
+Buizel
 Level: 13
 Ability: Swift Swim
 Nature: Naive
@@ -631,7 +632,7 @@ Nature: Naive
 - Ice Fang
 - Headbutt
 
-Stunky @ Oran Berry
+Stunky
 Level: 13
 Ability: Stench
 Nature: Naive
@@ -651,7 +652,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Karrablast @ Silver Powder
+Karrablast
 Level: 13
 Ability: Swarm
 Nature: Jolly
@@ -660,7 +661,7 @@ Nature: Jolly
 - Aerial Ace
 - Headbutt
 
-Shelmet @ Silver Powder
+Shelmet
 Level: 13
 Ability: Shell Armor
 Nature: Brave
@@ -680,7 +681,7 @@ Music: Girl
 Double Battle: No
 AI: Smart Trainer
 
-Purrloin (F) @ Oran Berry
+Purrloin (F)
 Level: 13
 Ability: Prankster
 Nature: Adamant
@@ -689,7 +690,7 @@ Nature: Adamant
 - Shadow Claw
 - Payback
 
-Fletchling @ Oran Berry
+Fletchling
 Level: 13
 Ability: Big Pecks
 Nature: Rash
@@ -709,7 +710,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Oddish @ Oran Berry
+Oddish
 Level: 13
 Ability: Chlorophyll
 Nature: Hardy
@@ -718,7 +719,7 @@ Nature: Hardy
 - Stun Spore
 - Flail
 
-Blitzle @ Persim Berry
+Blitzle
 Level: 13
 Ability: Lightning Rod
 Nature: Naive
@@ -738,7 +739,7 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer
 
-Spheal @ Oran Berry
+Spheal
 Level: 13
 Ability: Thick Fat
 Nature: Quiet
@@ -767,7 +768,7 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer
 
-Timburr @ Oran Berry
+Timburr
 Level: 13
 Ability: Guts
 Nature: Adamant
@@ -775,7 +776,7 @@ Nature: Adamant
 - Rock Throw
 - Pound
 
-Diglett @ Oran Berry
+Diglett
 Level: 13
 Ability: Arena Trap
 Nature: Careful
@@ -784,7 +785,7 @@ Nature: Careful
 - Feint Attack
 - Astonish
 
-Spearow @ Oran Berry
+Spearow
 Level: 14
 Ability: Sniper
 Nature: Adamant
@@ -804,7 +805,7 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Geodude_Alola
+Geodude_Alola @ Expert Belt
 Level: 13
 Ability: Sturdy
 Nature: Adamant
@@ -912,7 +913,7 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Nosepass (F) @ Oran Berry
+Nosepass (F) @ Lum Berry
 Level: 16
 Ability: Sturdy
 Nature: Naughty
@@ -929,7 +930,7 @@ Nature: Adamant
 - Rock Tomb
 - Metal Claw
 
-Lileep @ Oran Berry
+Lileep @ Pecha Berry
 Level: 14
 Ability: Suction Cups
 Nature: Modest
@@ -946,7 +947,7 @@ Nature: Jolly
 - Bite
 - Double Kick
 
-Corsola @ Oran Berry
+Corsola @ Persim Berry
 Level: 13
 Ability: Natural Cure
 Nature: Timid
@@ -963,6 +964,10 @@ Nature: Lonely
 - Rock Throw
 - Hypnosis
 - Swift
+
+
+
+
 
 
 
