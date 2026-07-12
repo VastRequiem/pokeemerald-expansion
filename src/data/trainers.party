@@ -105,7 +105,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: Basic Trainer
 
 Torchic
 Level: 5
@@ -187,7 +187,7 @@ Level: 5
 Ability: Keen Eye
 - Wing Attack
 - Sand Attack
-- Swagger
+- Quick Attack
 
 Lillipup
 Level: 5
@@ -212,14 +212,12 @@ Level: 5
 Ability: Flash Fire
 - Ember
 - Bug Bite
-- Wrap
 
 Surskit
 Level: 5
 Ability: Swift Swim
 - Struggle Bug
-- Water Pulse
-- Quick Attack
+- Water Gun
 
 
 
@@ -236,7 +234,6 @@ Pansage
 Level: 6
 Ability: Overgrow
 - Bullet Seed
-- Leech Seed
 - Bite
 
 Panpour
@@ -250,7 +247,8 @@ Level: 6
 Ability: Blaze
 - Headbutt
 - Ember
-- Work Up
+
+
 
 
 
@@ -267,7 +265,6 @@ Hoppip
 Level: 7
 Ability: Chlorophyll
 - Stun Spore
-- Charm
 - Bullet Seed
 
 Clefairy
@@ -275,6 +272,8 @@ Level: 7
 Ability: Cute Charm
 - Metronome
 - Metronome
+
+
 
 
 
@@ -287,27 +286,19 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Krabby
-Level: 9
-Ability: Shell Armor
-Nature: Relaxed
-- Aqua Jet
-- Stomp
-- Mud Shot
-
 Clobbopus
-Level: 9
+Level: 8
 Ability: Limber
 - Rock Smash
-- Bind
-- Detect
+- Water Gun
 
 Wattrel
-Level: 9
-Ability: Competitive
-- Shock Wave
-- Air Cutter
-- Quick Attack
+Level: 8
+Ability: Wind Power
+- Thunder Shock
+- Gust
+
+
 
 
 
@@ -320,19 +311,21 @@ Music: Hiker
 Double Battle: No
 AI: Smart Trainer
 
-Magikarp @ Choice Band
+Magikarp
 Level: 12
 Ability: Rattled
 Nature: Adamant
 - Bounce
+- Tackle
 
-Feebas @ Focus Sash
+Feebas
 Level: 12
 Ability: Adaptability
 Nature: Hasty
 - Hydro Pump
 - Flail
-- Tackle
+
+
 
 
 
@@ -349,10 +342,8 @@ Jigglypuff (F)
 Level: 10
 Ability: Cute Charm
 Nature: Bold
-- Round
 - Draining Kiss
 - Attract
-- Thunder Wave
 
 Stufful (F)
 Level: 10
@@ -362,13 +353,15 @@ Nature: Adamant
 - Stomp
 - Attract
 
-Phanpy (F)
+Phanpy (F) @ Soft Sand
 Level: 10
 Ability: Cute Charm
 Nature: Jolly
 - Stomp
-- Ice Shard
+- Mud Shot
 - Attract
+
+
 
 
 
@@ -387,15 +380,15 @@ Ability: Water Bubble
 Nature: Relaxed
 - Water Pulse
 - Bug Bite
-- Sticky Web
 
 Skorupi
 Level: 10
 Ability: Sniper
 Nature: Adamant
 - Bite
-- Fell Stinger
 - Poison Tail
+
+
 
 
 
@@ -408,32 +401,39 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer
 
-Voltorb @ Oran Berry
-Level: 11
-Ability: Static
-Nature: Modest
-- Thunder Shock
-- Swift
-- Thunder Wave
-- Eerie Impulse
-
-Carvanha @ Oran Berry
-Level: 11
-Ability: Rough Skin
-Nature: Naive
+Poochyena
+Level: 10
+Ability: Intimidate
+Nature: Jolly
 - Bite
-- Water Pulse
-- Aqua Jet
 - Poison Fang
+- Howl
 
-Croagunk @ Oran Berry
-Level: 11
-Ability: Poison Touch
-Nature: Hasty
-- Rock Smash
-- Poison Sting
-- Fake Out
-- Mud Shot
+Snorunt
+Level: 10
+Ability: Inner Focus
+Nature: Quiet
+- Icy Wind
+- Bite
+- Chilling Water
+
+Krabby
+Level: 10
+Ability: Hyper Cutter
+Nature: Rash
+- Metal Claw
+- Stomp
+- Bubble Beam
+
+Goomy
+Level: 10
+Ability: Sap Sipper
+Nature: Mild
+- Dragon Breath
+- Water Pulse
+- Mud Bomb
+
+
 
 
 
@@ -447,28 +447,29 @@ Double Battle: No
 AI: Smart Trainer
 
 Larvesta
-Level: 11
+Level: 10
 Ability: Flame Body
 Nature: Careful
-- Flame Charge
+- Ember
 - Will-o-wisp
 - Pounce
 
 Trapinch
-Level: 11
+Level: 10
 Ability: Hyper Cutter
 Nature: Relaxed
-- Bug Bite
-- Sand Tomb
-- Quick Attack
+- Bite
+- Mud Shot
 
 Joltik
 Level: 10
 Ability: Compound Eyes
 Nature: Timid
-- Electroweb
+- Thunder Shock
 - Absorb
 - Struggle Bug
+
+
 
 
 
@@ -482,22 +483,22 @@ Double Battle: No
 AI: Smart Trainer
 
 Elekid
-Level: 12
+Level: 11
 Ability: Static
 Nature: Lonely
 - Rock Smash
-- Shock Wave
-- Thunder Wave
-- Headbutt
+- Thunder Shock
+- Charge
 
 Growlithe
-Level: 12
+Level: 11
 Ability: Intimidate
 Nature: Naive
 - Double Kick
 - Flame Wheel
 - Bite
-- Howl
+
+
 
 
 
@@ -511,31 +512,30 @@ Double Battle: No
 AI: Smart Trainer
 
 Shroomish (F)
-Level: 12
+Level: 11
 Ability: Effect Spore
 Nature: Sassy
 - Mega Drain
 - Headbutt
 - Stun Spore
-- Leech Seed
 
 Numel (F)
-Level: 12
+Level: 11
 Ability: Own Tempo
-Nature: Brave
+Nature: Quiet
 - Stomp
-- Incinerate
-- Focus Energy
-- Will-o-wisp
+- Ember
+- Mud Shot
 
 Natu (F)
-Level: 12
+Level: 11
 Ability: Synchronize
 Nature: Hasty
 - Confusion
 - Confuse Ray
 - Quick Attack
-- Pluck
+
+
 
 
 
@@ -548,23 +548,23 @@ Music: Twins
 Double Battle: Yes
 AI: Smart Trainer
 
-Nuzleaf @ Oran Berry
+Nuzleaf
 Level: 12
 Ability: Chlorophyll
 Nature: Naive
 - Fake Out
 - Feint Attack
-- Rock Smash
 - Trailblaze
 
-Lombre @ Oran Berry
+Lombre
 Level: 12
 Ability: Swift Swim
 Nature: Calm
 - Fake Out
 - Mega Drain
 - Chilling Water
-- Mud Shot
+
+
 
 
 
@@ -582,27 +582,26 @@ Level: 12
 Ability: Oblivious
 Nature: Sassy
 - Mud Slap
-- Icy Wind
-- Spark
-- Flail
+- Water Gun
+- Yawn
 
 Slowpoke
-Level: 12
+Level: 11
 Ability: Swift Swim
 Nature: Quiet
-- Psybeam
-- Chilling Water
+- Confusion
+- Water Gun
 - Yawn
-- Disable
 
 Goldeen (F)
 Level: 12
-Ability: Swift Swim
+Ability: Lightning Rod
 Nature: Mild
 - Supersonic
 - Water Pulse
 - Peck
-- Attract
+
+
 
 
 
@@ -616,30 +615,30 @@ Double Battle: No
 AI: Smart Trainer
 
 Machop
-Level: 13
+Level: 12
 Ability: Guts
 Nature: Careful
-- Rock Smash
+- Karate Chop
 - Bullet Punch
 - Dual Chop
 
 Buizel
-Level: 13
+Level: 12
 Ability: Swift Swim
 Nature: Naive
 - Aqua Jet
-- Pursuit
 - Ice Fang
 - Headbutt
 
 Stunky
-Level: 13
+Level: 12
 Ability: Stench
 Nature: Naive
-- Headbutt
-- Incinerate
-- Clear Smog
+- Poison Tail
+- Fury Swipes
 - Bite
+
+
 
 
 
@@ -653,22 +652,22 @@ Double Battle: No
 AI: Smart Trainer
 
 Karrablast
-Level: 13
+Level: 12
 Ability: Swarm
 Nature: Jolly
 - Bug Bite
-- Flail
 - Aerial Ace
 - Headbutt
 
 Shelmet
-Level: 13
+Level: 12
 Ability: Shell Armor
 Nature: Brave
 - Bug Bite
 - Mega Drain
 - Yawn
-- Pursuit
+
+
 
 
 
@@ -682,7 +681,7 @@ Double Battle: No
 AI: Smart Trainer
 
 Purrloin (F)
-Level: 13
+Level: 12
 Ability: Prankster
 Nature: Adamant
 - Fake Out
@@ -691,13 +690,15 @@ Nature: Adamant
 - Payback
 
 Fletchling
-Level: 13
+Level: 12
 Ability: Big Pecks
 Nature: Rash
 - Quick Attack
-- Incinerate
-- Air Cutter
+- Ember
+- Gust
 - Steel Wing
+
+
 
 
 
@@ -711,22 +712,22 @@ Double Battle: No
 AI: Smart Trainer
 
 Oddish
-Level: 13
+Level: 12
 Ability: Chlorophyll
 Nature: Hardy
 - Magical Leaf
 - Sludge
 - Stun Spore
-- Flail
 
 Blitzle
-Level: 13
+Level: 12
 Ability: Lightning Rod
 Nature: Naive
 - Spark
 - Quick Attack
 - Flame Charge
-- Thunder Wave
+
+
 
 
 
@@ -744,18 +745,18 @@ Level: 13
 Ability: Thick Fat
 Nature: Quiet
 - Icy Wind
-- Water Pulse
-- Water Sport
-- Swagger
+- Water Gun
+- Headbutt
 
 Roggenrola (F)
 Level: 13
 Ability: Sturdy
 Nature: Relaxed
 - Sand Attack
-- Smack Down
-- Attract
+- Rock Throw
 - Rock Smash
+
+
 
 
 
@@ -769,16 +770,16 @@ Double Battle: No
 AI: Smart Trainer
 
 Timburr
-Level: 13
+Level: 12
 Ability: Guts
 Nature: Adamant
-- Mach Punch
+- Bullet Punch
 - Rock Throw
-- Pound
+- Rock Smash
 
 Diglett
-Level: 13
-Ability: Arena Trap
+Level: 12
+Ability: Sand Veil
 Nature: Careful
 - Bulldoze
 - Rock Smash
@@ -786,13 +787,14 @@ Nature: Careful
 - Astonish
 
 Spearow
-Level: 14
+Level: 12
 Ability: Sniper
 Nature: Adamant
 - Aerial Ace
-- Pursuit
 - Steel Wing
 - Quick Attack
+
+
 
 
 
@@ -805,12 +807,12 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Geodude_Alola @ Expert Belt
+Geodude_Alola
 Level: 13
 Ability: Sturdy
 Nature: Adamant
 - Thunder Punch
-- Rock Tomb
+- Rock Throw
 - Rock Smash
 
 Bonsly @ Lum Berry
@@ -818,7 +820,7 @@ Level: 13
 Ability: Sturdy
 Nature: Sassy
 - Ice Punch
-- Rock Tomb
+- Rock Throw
 - Headbutt
 - Low Kick
 
@@ -828,8 +830,9 @@ Ability: Keen Eye
 Nature: Impish
 - Bite
 - Fire Fang
-- Rock Tomb
 - Dig
+
+
 
 
 
@@ -846,9 +849,8 @@ Dwebble @ Silver Powder
 Level: 13
 Ability: Sturdy
 Nature: Careful
-- Skitter Smack
-- Smack Down
-- Flail
+- Bug Bite
+- Rock Throw
 - Rock Smash
 
 Rhyhorn
@@ -861,12 +863,14 @@ Nature: Adamant
 - Scary Face
 
 Omanyte @ Mystic Water
-Level: 13
+Level: 12
 Ability: Shell Armor
 Nature: Modest
 - Ancient Power
 - Water Pulse
 - Mud Shot
+
+
 
 
 
@@ -904,6 +908,8 @@ Nature: Jolly
 
 
 
+
+
 === TRAINER_ROXANNE_1 ===
 Name: ROXANNE
 Class: Leader
@@ -914,24 +920,24 @@ Double Battle: No
 AI: Smart Trainer
 
 Nosepass (F) @ Lum Berry
-Level: 16
+Level: 15
 Ability: Sturdy
 Nature: Naughty
-- Thunder Wave
-- Taunt
+- Rock Tomb
 - Rock Smash
 - Spark
+- Thunder Wave
 
-Anorith @ Cheri Berry
-Level: 14
+Anorith @ Oran Berry
+Level: 13
 Ability: Battle Armor
 Nature: Adamant
 - Bug Bite
 - Rock Tomb
 - Metal Claw
 
-Lileep @ Pecha Berry
-Level: 14
+Lileep @ Oran Berry
+Level: 13
 Ability: Suction Cups
 Nature: Modest
 - Mega Drain
@@ -939,7 +945,7 @@ Nature: Modest
 - Ancient Power
 
 Growlithe_Hisui @ Lum Berry
-Level: 15
+Level: 14
 Ability: Intimidate
 Nature: Jolly
 - Flame Wheel
@@ -947,25 +953,23 @@ Nature: Jolly
 - Bite
 - Double Kick
 
-Corsola @ Persim Berry
-Level: 13
-Ability: Natural Cure
-Nature: Timid
-- Icy Wind
-- Ancient Power
-- Water Pulse
-- Confuse Ray
-
-Lunatone @ Lum Berry
+Binacle @ Oran Berry
 Level: 14
-Ability: Levitate
+Ability: Sniper
+Nature: Brave
+- Secret Power
+- Rock Tomb
+- Water Pulse
+- Brick Break
+
+Onix @ Lum Berry
+Level: 13
+Ability: Sturdy
 Nature: Lonely
-- Confusion
-- Rock Throw
-- Hypnosis
-- Swift
-
-
+- Swagger
+- Rock Tomb
+- Dragon Breath
+- Dig
 
 
 
@@ -980,9 +984,372 @@ Music: Aqua
 Double Battle: No
 AI: Smart Trainer
 
-Poochyena
-Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Maschiff @ Black Glasses
+Level: 14
+Ability: Intimidate
+Nature: Adamant
+- Bite
+- Fire Fang
+- Trailblaze
+- Dig
+
+Totodile @ Sitrus Berry
+Level: 14
+Ability: Sheer Force
+Nature: Jolly
+- Bite
+- Ice Fang
+- Aqua Jet
+- Headbutt
+
+Tentacool @ Mystic Water
+Level: 14
+Ability: Clear Body
+Nature: Modest
+- Icy Wind
+- Water Gun
+- Acid Spray
+- Confuse Ray
+
+Dratini @ Sitrus Berry
+Level: 15
+Ability: Marvel Scale
+Nature: Mild
+- Thunder Wave
+- Dragon Breath
+- Chilling Water
+- Headbutt
+
+
+
+
+
+=== TRAINER_NED ===
+Name: NED
+Class: Fisherman
+Pic: Fisherman
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Clamperl
+Level: 15
+Ability: Shell Armor
+Nature: Brave
+- Clamp
+- Icy Wind
+- Secret Power
+- Confuse Ray
+
+Shellder
+Level: 15
+Ability: Shell Armor
+Nature: Rash
+- Ice Shard
+- Water Pulse
+- Aurora Beam
+- Supersonic
+
+Seel
+Level: 15
+Ability: Thick Fat
+Nature: Sassy
+- Icy Wind
+- Water Pulse
+- Charm
+- Fake Out
+
+
+
+
+=== TRAINER_ELLIOT_1 ===
+Name: ELLIOT
+Class: Fisherman
+Pic: Fisherman
+Gender: Male
+Music: Hiker
+Double Battle: No
+AI: Smart Trainer
+
+Remoraid
+Level: 16
+Ability: Sniper
+Nature: Mild
+- Water Pulse
+- Aurora Beam
+- Bullet Seed
+- Acid Spray
+
+Barboach
+Level: 16
+Ability: Oblivious
+Nature: Adamant
+- Bounce
+- Spark
+- Bulldoze
+- Headbutt
+
+
+Ducklett
+Level: 16
+Ability: Big Pecks
+Nature: Quirky
+- Wing Attack
+- Steel Wing
+- Water Pulse
+- Disarming Voice
+
+
+
+
+=== TRAINER_LAURA ===
+Name: LAURA
+Class: Battle Girl
+Pic: Battle Girl
+Gender: Female
+Music: Intense
+Double Battle: No
+AI: Smart Trainer
+
+Meditite
+Level: 17
+Ability: Pure Power
+Nature: Naive
+- Psybeam
+- Rock Smash
+- Fake Out
+
+Elekid
+Level: 17
+Ability: Static
+Nature: Lonely
+- Shock Wave
+- Low Kick
+- Swift
+- Quick Attack
+
+Pancham
+Level: 17
+Ability: Mold Breaker
+Nature: Careful
+- Brick Break
+- Brutal Swing
+- Work Up
+- Shadow Claw
+
+
+
+
+=== TRAINER_BRENDEN ===
+Name: BRENDEN
+Class: Sailor
+Pic: Sailor
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Machop
+Level: 16
+Ability: Guts
+Nature: Adamant
+- Bullet Punch
+- Brutal Swing
+- Rock Smash
+- Double Hit
+
+Poliwhirl
+Level: 16
+Ability: Water Absorb
+Nature: Brave
+- Bubble Beam
+- Ice Punch
+- Hypnosis
+- Brick Break
+
+
+
+
+
+=== TRAINER_LILITH ===
+Name: LILITH
+Class: Battle Girl
+Pic: Battle Girl
+Gender: Female
+Music: Intense
+Double Battle: No
+AI: Smart Trainer
+
+Snubbull
+Level: 16
+Ability: Intimidate
+Nature: Adamant
+- Bite
+- Double Kick
+- Charm
+- Thunder Fang
+
+Mankey
+Level: 16
+Ability: Vital Spirit
+Nature: Adamant
+- Karate Chop
+- Rock Throw
+- Brutal Swing
+- Swagger
+
+
+
+
+
+=== TRAINER_TAKAO ===
+Name: TAKAO
+Class: Black Belt
+Pic: Black Belt
+Gender: Male
+Music: Intense
+Double Battle: No
+AI: Smart Trainer
+
+Shroomish
+Level: 17
+Ability: Effect Spore
+Nature: Naive
+- Stun Spore
+- Headbutt
+- Drain Punch
+- Sludge
+
+Aipom
+Level: 17
+Ability: Inner Focus
+Nature: Impish
+- Fake Out
+- Headbutt
+- Bounce
+- Brick Break
+
+Mienfoo
+Level: 16
+Ability: Inner Focus
+Nature: Careful
+- Fake Out
+- Force Palm
+- Aerial Ace
+
+
+
+
+
+=== TRAINER_CRISTIAN ===
+Name: CRISTIAN
+Class: Black Belt
+Pic: Black Belt
+Gender: Male
+Music: Intense
+Double Battle: No
+AI: Smart Trainer
+
+Binacle
+Level: 18
+Ability: Sniper
+Nature: Quiet
+- Brick Break
+- Rock Tomb
+- Bubble Beam
+- Icy Wind
+
+Jangmo-o
+Level: 18
+Ability: Bulletproof
+Nature: Naughty
+- Breaking Swipe
+- Rock Tomb
+- Headbutt
+- Brick Break
+
+Crabrawler
+Level: 17
+Ability: Hyper Cutter
+Nature: Careful
+- Rock Smash
+- Vice Grip
+- Bubble Beam
+- Ice Punch
+
+
+
+
+
+=== TRAINER_JOCELYN ===
+Name: JOCELYN
+Class: Battle Girl
+Pic: Battle Girl
+Gender: Female
+Music: Intense
+Double Battle: No
+AI: Smart Trainer
+
+Ledian
+Level: 16
+Ability: Iron Fist
+Nature: Bold
+- Mach Punch
+- Aerial Ace
+- Supersonic
+- Bug Bite
+
+Pignite
+Level: 16
+Ability: Blaze
+Nature: Timid
+- Ember
+- Rock Smash
+- Smog
+- Brutal Swing
+
+
+
+
+
+=== TRAINER_BRAWLY_1 ===
+Name: BRAWLY
+Class: Leader
+Pic: Leader Brawly
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Machop
+Level: 19
+Ability: Guts
+Nature: Adamant
+- Karate Chop
+- Low Kick
+- Seismic Toss
+- Bulk Up
+
+Meditite
+Level: 19
+Ability: Pure Power
+Nature: Adamant
+- Focus Punch
+- Light Screen
+- Reflect
+- Bulk Up
+
+Makuhita @ Eviolite
+Level: 20
+Ability: Thick Fat
+Nature: Adamant
+- Arm Thrust
+- Vital Throw
+- Reversal
+- Bulk Up
+
+
 
 
 
@@ -4021,18 +4388,9 @@ Sharpedo
 Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-=== TRAINER_TAKAO ===
-Name: TAKAO
-Class: Black Belt
-Pic: Black Belt
-Gender: Male
-Music: Intense
-Double Battle: No
-AI: Check Bad Move
 
-Machop
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+
+
 
 === TRAINER_HITOSHI ===
 Name: HITOSHI
@@ -5651,42 +6009,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 
 
-
-
-=== TRAINER_BRAWLY_1 ===
-Name: BRAWLY
-Class: Leader
-Pic: Leader Brawly
-Gender: Male
-Music: Male
-Items: Super Potion / Super Potion
-Double Battle: No
-AI: Basic Trainer
-
-Machop
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
-
-Meditite
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
-
-Makuhita @ Sitrus Berry
-Level: 19
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
-
 === TRAINER_WATTSON_1 ===
 Name: WATTSON
 Class: Leader
@@ -7077,39 +7399,9 @@ Barboach
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_ELLIOT_1 ===
-Name: ELLIOT
-Class: Fisherman
-Pic: Fisherman
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Check Bad Move
 
-Magikarp
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Tentacool
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Magikarp
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_NED ===
-Name: NED
-Class: Fisherman
-Pic: Fisherman
-Gender: Male
-Music: Hiker
-Double Battle: No
-AI: Check Bad Move
-
-Tentacool
-Level: 11
-IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DALE ===
 Name: DALE
@@ -8546,31 +8838,9 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Tackle
 - Sludge
 
-=== TRAINER_JOCELYN ===
-Name: JOCELYN
-Class: Battle Girl
-Pic: Battle Girl
-Gender: Female
-Music: Intense
-Double Battle: No
-AI: Check Bad Move
 
-Meditite
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
-=== TRAINER_LAURA ===
-Name: LAURA
-Class: Battle Girl
-Pic: Battle Girl
-Gender: Female
-Music: Intense
-Double Battle: No
-AI: Check Bad Move
 
-Meditite
-Level: 13
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CYNDY_1 ===
 Name: CYNDY
@@ -11187,44 +11457,8 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 
 
-=== TRAINER_BRENDEN ===
-Name: BRENDEN
-Class: Sailor
-Pic: Sailor
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Check Bad Move
 
-Machop
-Level: 13
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-=== TRAINER_LILITH ===
-Name: LILITH
-Class: Battle Girl
-Pic: Battle Girl
-Gender: Female
-Music: Intense
-Double Battle: No
-AI: Check Bad Move
-
-Meditite
-Level: 13
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-
-=== TRAINER_CRISTIAN ===
-Name: CRISTIAN
-Class: Black Belt
-Pic: Black Belt
-Gender: Male
-Music: Intense
-Double Battle: No
-AI: Check Bad Move
-
-Makuhita
-Level: 13
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SYLVIA ===
 Name: SYLVIA
