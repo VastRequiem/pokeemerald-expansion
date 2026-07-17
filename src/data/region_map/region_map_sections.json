@@ -1242,9 +1242,33 @@
     {
       "id": "MAPSEC_CRYSTALLINE_CAVERN",
       "name": "CRYSTALLINE CAVERN",
+      "x": 1,
+      "y": 13,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_FLOWER_SHOP",
+      "name": "FLOWER SHOP",
       "x": 0,
       "y": 7,
       "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_TUNNELER_HOUSE",
+      "name": "TUNNELER HOUSE",
+      "x": 0,
+      "y": 13,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_DEWFORD_TOWN_HALL",
+      "name": "DEWFORD TOWN HALL",
+      "x": 0,
+      "y": 13,
+      "width": 2,
       "height": 1
     }
   ]

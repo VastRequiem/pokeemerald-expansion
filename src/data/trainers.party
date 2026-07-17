@@ -1322,31 +1322,63 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Machop
+Sneasel_Hisui
 Level: 19
-Ability: Guts
-Nature: Adamant
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Ability: Keen Eye
+Nature: Impish
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Fake Out
+- Poison Tail
+- Brick Break
+- Feint Attack
 
-Meditite
-Level: 19
-Ability: Pure Power
-Nature: Adamant
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
+Poliwrath
+Level: 18
+Ability: Swift Swim
+Nature: Serious
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hypnosis
+- Water Pulse
+- Rock Smash
+- Icy Wind
+
+Hitmontop
+Level: 18
+Ability: Intimidate
+Nature: Quirky
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rolling Kick
+- Aerial Ace
+- Gyro Ball
+- Quick Attack
+
+Hitmonchan
+Level: 18
+Ability: Keen Eye
+Nature: Bashful
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Mach Punch
+- Fire Punch
+- Thunder Punch
+- Ice Punch
+
+Hitmonlee
+Level: 18
+Ability: Limber
+Nature: Docile
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Rolling Kick
+- Bullet Punch
+- Rock Tomb
+- Stomp
 
 Makuhita @ Eviolite
 Level: 20
 Ability: Thick Fat
 Nature: Adamant
-- Arm Thrust
-- Vital Throw
-- Reversal
+- Fake Out
+- Force Palm
+- Bullet Punch
 - Bulk Up
 
 
