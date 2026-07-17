@@ -52,7 +52,7 @@ src/data/debug_trainers.h
 test/battle/trainer_control.h
 tools/compresSmol/compresSmol
 tools/compresSmol/compresSmolTilemap
-tools/poryscript #added
+tools/aif2pcm/aif2pcm
 *.Identifier
 *.smol
 *.fastSmol
